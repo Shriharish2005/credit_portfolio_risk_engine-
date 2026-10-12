@@ -1,0 +1,15 @@
+{
+  "name": "credit-portfolio-risk-engine",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "frontend": "npm --prefix frontend run dev",
+    "backend": "python -m uvicorn backend.app.main:app --host 127.0.0.1 --port 8000 --reload",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.5"
+  }
+}

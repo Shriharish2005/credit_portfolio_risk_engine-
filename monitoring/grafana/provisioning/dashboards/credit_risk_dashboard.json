@@ -1,0 +1,61 @@
+{
+  "annotations": { "list": [] },
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 0,
+  "id": 1,
+  "links": [],
+  "liveNow": false,
+  "panels": [
+    {
+      "title": "API Request Rate (req/sec)",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 0 },
+      "targets": [
+        {
+          "expr": "sum(rate(http_requests_total[1m])) by (endpoint)",
+          "legendFormat": "{{endpoint}}"
+        }
+      ]
+    },
+    {
+      "title": "Risk Calculation Latency (95th Percentile)",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 0 },
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.95, sum(rate(risk_calculation_duration_seconds_bucket[5m])) by (le, calculation_type))",
+          "legendFormat": "{{calculation_type}} p95"
+        }
+      ]
+    },
+    {
+      "title": "Monte Carlo Simulation Execution Time",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 8 },
+      "targets": [
+        {
+          "expr": "rate(monte_carlo_simulation_duration_seconds_sum[5m]) / rate(monte_carlo_simulation_duration_seconds_count[5m])",
+          "legendFormat": "Avg Execution Duration (s)"
+        }
+      ]
+    },
+    {
+      "title": "Total Calculation Errors",
+      "type": "stat",
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 8 },
+      "targets": [
+        {
+          "expr": "sum(risk_calculation_errors_total)",
+          "legendFormat": "Errors"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 38,
+  "style": "dark",
+  "tags": ["credit-risk", "fastapi", "quantitative"],
+  "time": { "from": "now-1h", "to": "now" },
+  "title": "Credit Portfolio Risk Engine Performance",
+  "version": 1
+}

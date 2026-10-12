@@ -1,0 +1,1001 @@
+borrower_id,legal_name,sector,geography,country,credit_rating,annual_revenue,total_assets,leverage,debt_ratio,interest_coverage,profitability,liquidity,established_year,is_active
+BORR-000001,Enterprise Corp 1,Technology,Asia-Pacific,South Korea,BB,6111000.0,5193000.0,4.03,0.616,5.64,0.074,1.66,2000,True
+BORR-000002,Enterprise Corp 2,Telecommunications,Latin America,Chile,BBB,54200000.0,82281000.0,2.52,0.494,5.94,0.052,2.31,1991,True
+BORR-000003,Enterprise Corp 3,Real Estate,Latin America,Chile,B,6076000.0,6310000.0,2.73,0.643,2.8,0.015,1.19,1972,True
+BORR-000004,Enterprise Corp 4,Consumer Discretionary,Europe,Switzerland,BBB,7655000.0,9580000.0,2.02,0.542,6.71,0.066,1.66,2016,True
+BORR-000005,Enterprise Corp 5,Consumer Discretionary,Europe,Netherlands,A,22160000.0,25877000.0,3.01,0.418,5.79,0.148,2.0,2006,True
+BORR-000006,Enterprise Corp 6,Materials,Asia-Pacific,Singapore,B,29855000.0,27253000.0,3.9,0.634,4.44,0.057,1.26,1960,True
+BORR-000007,Enterprise Corp 7,Technology,North America,Canada,BBB,36843000.0,42207000.0,2.52,0.559,5.26,0.118,1.85,1965,True
+BORR-000008,Enterprise Corp 8,Real Estate,Asia-Pacific,Singapore,A,13155000.0,15130000.0,3.12,0.397,8.24,0.07,1.91,1963,True
+BORR-000009,Enterprise Corp 9,Energy,Europe,Netherlands,A,27628000.0,36527000.0,2.93,0.372,7.17,0.08,1.55,1985,True
+BORR-000010,Enterprise Corp 10,Technology,North America,Canada,BB,35846000.0,63532000.0,3.51,0.5,4.68,0.095,1.43,1985,True
+BORR-000011,Enterprise Corp 11,Industrials,North America,United States,AA,18637000.0,23669000.0,1.55,0.352,8.29,0.067,2.55,2004,True
+BORR-000012,Enterprise Corp 12,Utilities,Asia-Pacific,Australia,A,12346000.0,21166000.0,2.23,0.464,7.61,0.162,2.2,2001,True
+BORR-000013,Enterprise Corp 13,Telecommunications,North America,United States,A,2586000.0,3262000.0,2.41,0.387,10.07,0.07,2.52,1960,True
+BORR-000014,Enterprise Corp 14,Telecommunications,North America,Canada,BBB,30069000.0,27289000.0,3.7,0.548,8.06,0.125,2.47,1989,True
+BORR-000015,Enterprise Corp 15,Telecommunications,North America,United States,BBB,15411000.0,15876000.0,3.11,0.352,6.83,0.073,2.11,2007,True
+BORR-000016,Enterprise Corp 16,Telecommunications,North America,United States,BBB,8919000.0,10770000.0,3.26,0.467,6.37,0.131,2.29,2014,True
+BORR-000017,Enterprise Corp 17,Industrials,North America,Canada,A,67885000.0,76396000.0,2.88,0.388,8.81,0.221,2.39,1977,True
+BORR-000018,Enterprise Corp 18,Healthcare,Asia-Pacific,Japan,AA,2641000.0,4399000.0,1.12,0.266,10.56,0.082,2.95,1962,True
+BORR-000019,Enterprise Corp 19,Materials,North America,Canada,BBB,105355000.0,155783000.0,3.28,0.613,5.4,0.121,2.44,1969,True
+BORR-000020,Enterprise Corp 20,Consumer Discretionary,Asia-Pacific,Australia,BBB,14264000.0,19660000.0,2.75,0.466,6.31,0.046,2.17,1980,True
+BORR-000021,Enterprise Corp 21,Industrials,Asia-Pacific,Singapore,BBB,21445000.0,27690000.0,1.64,0.446,4.21,0.113,2.09,1987,True
+BORR-000022,Enterprise Corp 22,Financials,North America,United States,AA,9120000.0,10919000.0,0.64,0.312,10.55,0.144,2.38,1981,True
+BORR-000023,Enterprise Corp 23,Healthcare,North America,United States,AAA,1982000.0,2799000.0,0.59,0.11,13.08,0.179,2.71,1965,True
+BORR-000024,Enterprise Corp 24,Utilities,Europe,United Kingdom,A,12391000.0,11457000.0,2.57,0.344,7.9,0.098,2.06,1980,True
+BORR-000025,Enterprise Corp 25,Telecommunications,North America,United States,BBB,21893000.0,21073000.0,2.96,0.529,3.85,0.123,2.07,1977,True
+BORR-000026,Enterprise Corp 26,Real Estate,North America,Canada,BBB,32982000.0,36383000.0,2.99,0.432,7.13,0.057,1.66,1989,True
+BORR-000027,Enterprise Corp 27,Consumer Discretionary,Middle East,UAE,BB,11552000.0,11219000.0,4.48,0.5,3.92,0.112,1.54,1964,True
+BORR-000028,Enterprise Corp 28,Materials,Middle East,Qatar,BBB,1055000.0,1558000.0,2.27,0.549,5.6,0.088,1.17,2008,True
+BORR-000029,Enterprise Corp 29,Industrials,Asia-Pacific,Japan,BBB,2304000.0,1900000.0,2.89,0.55,7.15,0.058,2.4,1985,True
+BORR-000030,Enterprise Corp 30,Consumer Discretionary,North America,Canada,BBB,171900000.0,165055000.0,3.05,0.501,6.71,0.148,1.81,1979,True
+BORR-000031,Enterprise Corp 31,Consumer Discretionary,Europe,Netherlands,AAA,3949000.0,6724000.0,0.73,0.203,10.01,0.173,2.86,2015,True
+BORR-000032,Enterprise Corp 32,Energy,Asia-Pacific,Singapore,BBB,81203000.0,145966000.0,2.91,0.456,5.62,0.157,2.32,2005,True
+BORR-000033,Enterprise Corp 33,Technology,North America,Canada,BBB,4776000.0,6150000.0,2.1,0.422,6.55,0.137,1.97,1968,True
+BORR-000034,Enterprise Corp 34,Industrials,Europe,United Kingdom,BBB,11770000.0,15247000.0,3.6,0.41,5.91,0.076,2.31,1968,True
+BORR-000035,Enterprise Corp 35,Materials,North America,United States,AA,31023000.0,48812000.0,1.36,0.247,7.87,0.147,2.07,1960,True
+BORR-000036,Enterprise Corp 36,Technology,North America,Canada,BB,5475000.0,4578000.0,4.52,0.513,4.6,0.079,2.32,1994,True
+BORR-000037,Enterprise Corp 37,Materials,Europe,Switzerland,B,99003000.0,121479000.0,4.08,0.568,4.01,0.096,1.65,1981,True
+BORR-000038,Enterprise Corp 38,Materials,North America,United States,AAA,16044000.0,14437000.0,1.61,0.136,10.39,0.188,2.78,1982,True
+BORR-000039,Enterprise Corp 39,Energy,North America,United States,BBB,25470000.0,30588000.0,2.87,0.483,4.7,0.105,2.31,1991,True
+BORR-000040,Enterprise Corp 40,Real Estate,Asia-Pacific,Japan,BB,10627000.0,18957000.0,3.48,0.564,6.19,0.069,1.25,1992,True
+BORR-000041,Enterprise Corp 41,Healthcare,Middle East,Saudi Arabia,A,32296000.0,50176000.0,2.01,0.492,4.51,0.123,2.07,1960,True
+BORR-000042,Enterprise Corp 42,Telecommunications,Europe,Germany,BB,97421000.0,173901000.0,3.56,0.51,4.46,0.114,2.03,1966,True
+BORR-000043,Enterprise Corp 43,Telecommunications,Asia-Pacific,Singapore,BBB,12515000.0,19349000.0,3.06,0.488,5.66,0.1,1.32,2008,True
+BORR-000044,Enterprise Corp 44,Financials,Middle East,Saudi Arabia,B,116763000.0,164415000.0,3.71,0.649,3.78,0.038,1.49,2018,True
+BORR-000045,Enterprise Corp 45,Technology,North America,United States,CCC,7033000.0,10931000.0,4.64,0.695,2.87,0.008,1.2,2011,True
+BORR-000046,Enterprise Corp 46,Utilities,Europe,Switzerland,AA,36650000.0,53476000.0,1.39,0.355,10.55,0.133,3.03,2015,True
+BORR-000047,Enterprise Corp 47,Consumer Discretionary,North America,Canada,BBB,26349000.0,33307000.0,4.05,0.517,5.55,0.058,1.41,1988,True
+BORR-000048,Enterprise Corp 48,Materials,North America,Canada,BBB,4064000.0,4440000.0,2.86,0.49,7.1,0.077,2.36,2010,True
+BORR-000049,Enterprise Corp 49,Real Estate,Asia-Pacific,Japan,A,18936000.0,24999000.0,3.07,0.375,8.03,0.17,1.99,2013,True
+BORR-000050,Enterprise Corp 50,Telecommunications,Europe,Netherlands,BBB,14781000.0,15646000.0,2.8,0.449,4.35,0.094,1.75,2014,True
+BORR-000051,Enterprise Corp 51,Telecommunications,Europe,Switzerland,CCC,5263000.0,6772000.0,4.83,0.628,4.48,0.046,0.67,1969,True
+BORR-000052,Enterprise Corp 52,Healthcare,North America,United States,AAA,22513000.0,21300000.0,0.44,0.182,8.87,0.101,2.39,1968,True
+BORR-000053,Enterprise Corp 53,Financials,North America,Canada,BBB,17462000.0,23843000.0,2.68,0.433,6.9,0.117,2.0,1984,True
+BORR-000054,Enterprise Corp 54,Consumer Discretionary,Latin America,Mexico,BB,13429000.0,14037000.0,3.61,0.483,5.47,0.07,1.27,1990,True
+BORR-000055,Enterprise Corp 55,Consumer Discretionary,North America,Canada,A,13493000.0,14756000.0,3.09,0.416,8.13,0.111,2.38,2018,True
+BORR-000056,Enterprise Corp 56,Technology,North America,United States,BBB,13151000.0,17084000.0,3.01,0.542,5.81,0.105,1.68,1979,True
+BORR-000057,Enterprise Corp 57,Industrials,North America,Canada,CCC,9424000.0,9071000.0,5.39,0.656,3.19,0.01,0.68,2010,True
+BORR-000058,Enterprise Corp 58,Healthcare,Europe,United Kingdom,BBB,17327000.0,30537000.0,3.22,0.487,4.53,0.036,1.72,2014,True
+BORR-000059,Enterprise Corp 59,Telecommunications,Europe,Germany,A,6765000.0,8436000.0,3.11,0.328,7.72,0.153,2.26,2018,True
+BORR-000060,Enterprise Corp 60,Real Estate,Europe,Germany,AA,355193000.0,409282000.0,1.67,0.292,8.52,0.157,2.36,1971,True
+BORR-000061,Enterprise Corp 61,Utilities,North America,United States,B,2700000.0,2239000.0,5.3,0.589,2.79,0.041,1.33,1974,True
+BORR-000062,Enterprise Corp 62,Telecommunications,North America,United States,A,7263000.0,11935000.0,2.06,0.426,8.31,0.096,2.37,1973,True
+BORR-000063,Enterprise Corp 63,Financials,Asia-Pacific,Singapore,BBB,7985000.0,11385000.0,2.52,0.429,7.69,0.056,2.2,2004,True
+BORR-000064,Enterprise Corp 64,Utilities,Europe,United Kingdom,AA,169539000.0,206228000.0,1.09,0.371,8.79,0.157,2.35,2001,True
+BORR-000065,Enterprise Corp 65,Consumer Discretionary,Europe,Netherlands,BBB,3005000.0,3142000.0,4.07,0.455,7.34,0.148,1.57,1984,True
+BORR-000066,Enterprise Corp 66,Financials,Europe,France,B,24425000.0,37740000.0,4.51,0.591,3.66,0.056,1.34,1965,True
+BORR-000067,Enterprise Corp 67,Utilities,Asia-Pacific,South Korea,BBB,19738000.0,34452000.0,2.73,0.395,5.33,0.059,2.02,1991,True
+BORR-000068,Enterprise Corp 68,Financials,North America,Canada,CCC,21863000.0,25816000.0,5.32,0.725,1.89,0.032,0.6,2004,True
+BORR-000069,Enterprise Corp 69,Technology,North America,United States,A,64593000.0,60386000.0,2.64,0.444,7.44,0.123,1.89,1988,True
+BORR-000070,Enterprise Corp 70,Consumer Discretionary,Europe,United Kingdom,BBB,63022000.0,57299000.0,3.88,0.486,5.56,0.126,1.66,1976,True
+BORR-000071,Enterprise Corp 71,Telecommunications,North America,United States,BB,8528000.0,6877000.0,2.73,0.684,5.51,0.093,1.54,1996,True
+BORR-000072,Enterprise Corp 72,Healthcare,Asia-Pacific,Singapore,BBB,18491000.0,28549000.0,2.77,0.556,6.68,0.01,1.65,2000,True
+BORR-000073,Enterprise Corp 73,Consumer Discretionary,Europe,Germany,A,1565000.0,2788000.0,2.07,0.372,5.89,0.141,2.37,1996,True
+BORR-000074,Enterprise Corp 74,Healthcare,Asia-Pacific,South Korea,BB,16501000.0,29583000.0,2.51,0.531,3.02,0.045,1.12,2013,True
+BORR-000075,Enterprise Corp 75,Real Estate,Asia-Pacific,Australia,BBB,5650000.0,8951000.0,3.43,0.498,6.91,0.057,1.41,1979,True
+BORR-000076,Enterprise Corp 76,Consumer Discretionary,Europe,Netherlands,BBB,11715000.0,11272000.0,2.76,0.42,5.42,0.094,1.78,1997,True
+BORR-000077,Enterprise Corp 77,Financials,Latin America,Brazil,CCC,1939000.0,3447000.0,5.07,0.78,2.56,0.037,0.99,2012,True
+BORR-000078,Enterprise Corp 78,Energy,Europe,Switzerland,A,23815000.0,26859000.0,3.48,0.412,8.74,0.076,1.72,1972,True
+BORR-000079,Enterprise Corp 79,Industrials,Asia-Pacific,Japan,A,1913000.0,2169000.0,2.12,0.405,6.27,0.146,1.98,1977,True
+BORR-000080,Enterprise Corp 80,Real Estate,North America,United States,AA,17504000.0,26034000.0,1.49,0.351,7.51,0.173,2.32,1962,True
+BORR-000081,Enterprise Corp 81,Utilities,Europe,France,BBB,3362000.0,2855000.0,2.96,0.573,8.41,0.101,1.76,1982,True
+BORR-000082,Enterprise Corp 82,Consumer Discretionary,Europe,Switzerland,A,5285000.0,8592000.0,2.79,0.4,8.22,0.099,2.21,1962,True
+BORR-000083,Enterprise Corp 83,Healthcare,North America,United States,BB,58567000.0,105262000.0,3.22,0.543,4.5,0.046,1.4,2005,True
+BORR-000084,Enterprise Corp 84,Materials,North America,United States,A,29666000.0,46726000.0,1.98,0.481,6.68,0.156,2.6,1965,True
+BORR-000085,Enterprise Corp 85,Real Estate,Latin America,Mexico,BBB,58180000.0,92022000.0,3.43,0.528,5.79,0.055,2.03,2002,True
+BORR-000086,Enterprise Corp 86,Telecommunications,Europe,Germany,A,95217000.0,113338000.0,2.49,0.371,6.37,0.157,1.92,1995,True
+BORR-000087,Enterprise Corp 87,Technology,North America,United States,BBB,5796000.0,5019000.0,1.88,0.47,7.46,0.095,1.91,2020,True
+BORR-000088,Enterprise Corp 88,Financials,North America,United States,BBB,88522000.0,140986000.0,2.29,0.482,5.47,0.097,1.92,1981,True
+BORR-000089,Enterprise Corp 89,Telecommunications,North America,United States,BB,2524000.0,3526000.0,4.25,0.572,6.31,0.024,1.96,1981,True
+BORR-000090,Enterprise Corp 90,Materials,North America,United States,BBB,35867000.0,61309000.0,3.1,0.389,5.92,0.096,1.7,1974,True
+BORR-000091,Enterprise Corp 91,Consumer Discretionary,Latin America,Mexico,BBB,8105000.0,7424000.0,2.52,0.377,5.15,0.118,2.11,1992,True
+BORR-000092,Enterprise Corp 92,Materials,Europe,Germany,BB,4798000.0,5302000.0,3.41,0.497,4.49,0.035,1.61,1973,True
+BORR-000093,Enterprise Corp 93,Materials,North America,Canada,BBB,30626000.0,35546000.0,2.91,0.412,3.25,0.115,2.33,1966,True
+BORR-000094,Enterprise Corp 94,Financials,Europe,Germany,A,45533000.0,67538000.0,2.67,0.351,7.66,0.128,2.55,2017,True
+BORR-000095,Enterprise Corp 95,Materials,North America,Canada,B,43939000.0,69764000.0,3.42,0.668,3.4,0.031,1.38,2001,True
+BORR-000096,Enterprise Corp 96,Energy,North America,Canada,BBB,18960000.0,33389000.0,2.48,0.46,7.39,0.126,1.8,1967,True
+BORR-000097,Enterprise Corp 97,Energy,Asia-Pacific,Japan,AA,17164000.0,18802000.0,1.84,0.322,6.94,0.084,2.59,1997,True
+BORR-000098,Enterprise Corp 98,Real Estate,Europe,Germany,BBB,27570000.0,35666000.0,2.85,0.397,7.79,0.11,1.83,1978,True
+BORR-000099,Enterprise Corp 99,Real Estate,Middle East,UAE,A,21094000.0,17486000.0,2.59,0.362,8.78,0.174,2.66,1970,True
+BORR-000100,Enterprise Corp 100,Healthcare,Europe,Germany,A,28054000.0,29541000.0,1.69,0.425,9.3,0.168,2.18,1988,True
+BORR-000101,Enterprise Corp 101,Materials,Europe,Germany,BB,18714000.0,21970000.0,3.68,0.586,4.94,0.087,1.48,2008,True
+BORR-000102,Enterprise Corp 102,Healthcare,Asia-Pacific,Japan,A,40279000.0,56141000.0,2.85,0.347,9.02,0.116,2.02,1960,True
+BORR-000103,Enterprise Corp 103,Materials,Latin America,Brazil,BB,2079000.0,2642000.0,3.74,0.56,3.23,0.056,1.24,1981,True
+BORR-000104,Enterprise Corp 104,Technology,Asia-Pacific,Singapore,B,12515000.0,14573000.0,4.17,0.762,4.46,0.041,1.49,2016,True
+BORR-000105,Enterprise Corp 105,Telecommunications,Middle East,Qatar,BBB,2784000.0,3965000.0,2.85,0.469,5.47,0.116,1.63,1984,True
+BORR-000106,Enterprise Corp 106,Telecommunications,Asia-Pacific,Singapore,BB,20420000.0,33256000.0,3.08,0.508,3.02,0.051,1.93,1966,True
+BORR-000107,Enterprise Corp 107,Telecommunications,Asia-Pacific,South Korea,BB,105089000.0,109469000.0,3.46,0.54,3.65,0.098,1.21,1986,True
+BORR-000108,Enterprise Corp 108,Real Estate,North America,United States,CCC,8294000.0,9479000.0,5.33,0.716,2.21,0.089,1.08,2001,True
+BORR-000109,Enterprise Corp 109,Consumer Discretionary,Asia-Pacific,South Korea,BBB,17068000.0,25686000.0,2.84,0.461,5.41,0.098,2.23,2020,True
+BORR-000110,Enterprise Corp 110,Telecommunications,Europe,Germany,A,36317000.0,57306000.0,1.86,0.388,8.25,0.085,1.51,1998,True
+BORR-000111,Enterprise Corp 111,Energy,Europe,France,BBB,1225000.0,1991000.0,2.65,0.383,4.23,0.06,2.49,1963,True
+BORR-000112,Enterprise Corp 112,Telecommunications,Europe,Netherlands,BBB,7830000.0,7903000.0,3.0,0.412,3.85,0.123,1.75,2009,True
+BORR-000113,Enterprise Corp 113,Industrials,Middle East,UAE,A,22690000.0,30388000.0,2.11,0.381,9.45,0.123,2.2,2007,True
+BORR-000114,Enterprise Corp 114,Consumer Discretionary,Middle East,Qatar,BBB,453000.0,770000.0,3.14,0.46,7.48,0.126,2.05,1999,True
+BORR-000115,Enterprise Corp 115,Industrials,North America,United States,AAA,4537000.0,5408000.0,1.36,0.196,9.34,0.159,2.94,2014,True
+BORR-000116,Enterprise Corp 116,Industrials,Asia-Pacific,Singapore,B,54900000.0,67521000.0,4.54,0.619,3.6,0.075,1.4,2006,True
+BORR-000117,Enterprise Corp 117,Technology,Asia-Pacific,Australia,A,48817000.0,87130000.0,3.01,0.394,9.02,0.12,2.46,1974,True
+BORR-000118,Enterprise Corp 118,Healthcare,North America,Canada,AA,22958000.0,20962000.0,2.2,0.363,9.7,0.128,2.6,1985,True
+BORR-000119,Enterprise Corp 119,Energy,North America,United States,AA,42230000.0,63582000.0,1.23,0.304,9.38,0.138,2.97,1990,True
+BORR-000120,Enterprise Corp 120,Healthcare,North America,Canada,A,18965000.0,31296000.0,1.85,0.414,9.11,0.089,2.32,1989,True
+BORR-000121,Enterprise Corp 121,Consumer Discretionary,Asia-Pacific,Australia,A,28530000.0,27126000.0,2.26,0.358,6.92,0.185,2.75,1998,True
+BORR-000122,Enterprise Corp 122,Real Estate,Europe,Switzerland,AA,10031000.0,15191000.0,1.47,0.344,9.24,0.147,2.71,2002,True
+BORR-000123,Enterprise Corp 123,Real Estate,Middle East,Saudi Arabia,A,16835000.0,21376000.0,1.73,0.413,7.78,0.144,1.62,1966,True
+BORR-000124,Enterprise Corp 124,Consumer Discretionary,Europe,Netherlands,A,6860000.0,11339000.0,2.08,0.442,7.47,0.109,2.94,1994,True
+BORR-000125,Enterprise Corp 125,Materials,Middle East,Saudi Arabia,BBB,66731000.0,113940000.0,2.66,0.513,5.93,0.068,1.71,1962,True
+BORR-000126,Enterprise Corp 126,Industrials,Europe,Switzerland,BBB,90955000.0,152121000.0,2.56,0.505,6.49,0.093,2.33,1991,True
+BORR-000127,Enterprise Corp 127,Technology,Asia-Pacific,South Korea,BBB,76737000.0,66330000.0,2.74,0.464,6.44,0.133,1.89,1985,True
+BORR-000128,Enterprise Corp 128,Telecommunications,North America,Canada,A,8978000.0,13977000.0,2.89,0.405,6.54,0.109,2.48,1972,True
+BORR-000129,Enterprise Corp 129,Industrials,Europe,France,AA,4664000.0,8029000.0,1.8,0.374,10.16,0.124,2.23,2020,True
+BORR-000130,Enterprise Corp 130,Real Estate,Asia-Pacific,South Korea,AAA,67820000.0,96396000.0,2.34,0.191,9.43,0.18,2.91,1975,True
+BORR-000131,Enterprise Corp 131,Industrials,Latin America,Mexico,A,28140000.0,39421000.0,2.39,0.352,7.54,0.14,2.08,1963,True
+BORR-000132,Enterprise Corp 132,Industrials,Asia-Pacific,Singapore,BB,21732000.0,18364000.0,3.35,0.561,4.65,0.124,2.07,1981,True
+BORR-000133,Enterprise Corp 133,Technology,North America,Canada,CCC,6849000.0,11342000.0,4.7,0.735,2.63,0.036,1.17,2006,True
+BORR-000134,Enterprise Corp 134,Industrials,North America,United States,B,24417000.0,20667000.0,4.23,0.581,1.06,0.069,1.6,1960,True
+BORR-000135,Enterprise Corp 135,Telecommunications,North America,Canada,BBB,3983000.0,4435000.0,3.12,0.466,7.47,0.122,1.23,1990,True
+BORR-000136,Enterprise Corp 136,Financials,North America,United States,BBB,31355000.0,54114000.0,3.94,0.464,5.59,0.065,1.85,1985,True
+BORR-000137,Enterprise Corp 137,Real Estate,Europe,France,A,76643000.0,134106000.0,1.88,0.257,9.26,0.096,2.28,2012,True
+BORR-000138,Enterprise Corp 138,Technology,Asia-Pacific,Singapore,BB,103725000.0,185865000.0,3.93,0.537,4.43,0.042,1.67,1960,True
+BORR-000139,Enterprise Corp 139,Financials,Asia-Pacific,Singapore,BB,34285000.0,43761000.0,3.6,0.541,4.94,0.035,1.89,1961,True
+BORR-000140,Enterprise Corp 140,Consumer Discretionary,Asia-Pacific,Singapore,BB,2790000.0,2727000.0,2.71,0.54,7.3,0.099,1.49,1994,True
+BORR-000141,Enterprise Corp 141,Utilities,Asia-Pacific,Singapore,B,18565000.0,23911000.0,4.49,0.715,3.27,0.059,1.33,1970,True
+BORR-000142,Enterprise Corp 142,Energy,Asia-Pacific,Singapore,BBB,190968000.0,172313000.0,3.53,0.397,7.89,0.102,2.23,2002,True
+BORR-000143,Enterprise Corp 143,Energy,North America,United States,BB,5166000.0,8640000.0,3.07,0.501,5.05,-0.003,0.92,1976,True
+BORR-000144,Enterprise Corp 144,Consumer Discretionary,North America,Canada,BB,13646000.0,18566000.0,3.5,0.393,5.5,0.137,1.78,1994,True
+BORR-000145,Enterprise Corp 145,Utilities,Europe,Netherlands,A,79895000.0,96234000.0,1.44,0.361,7.88,0.098,2.06,1962,True
+BORR-000146,Enterprise Corp 146,Materials,Asia-Pacific,Australia,B,30724000.0,27023000.0,3.47,0.606,4.62,0.112,1.05,2002,True
+BORR-000147,Enterprise Corp 147,Technology,North America,Canada,AA,287343000.0,346317000.0,2.22,0.279,8.38,0.107,2.54,1991,True
+BORR-000148,Enterprise Corp 148,Energy,Europe,Switzerland,CCC,6080000.0,10130000.0,4.47,0.776,1.02,0.001,1.41,1960,True
+BORR-000149,Enterprise Corp 149,Materials,Europe,Switzerland,BB,4467000.0,6716000.0,2.95,0.602,4.23,0.009,1.91,1976,True
+BORR-000150,Enterprise Corp 150,Technology,North America,United States,AA,63653000.0,56171000.0,1.81,0.315,9.32,0.161,2.4,1963,True
+BORR-000151,Enterprise Corp 151,Materials,Europe,Netherlands,BBB,3488000.0,3348000.0,2.64,0.448,6.14,0.067,2.14,1962,True
+BORR-000152,Enterprise Corp 152,Energy,Latin America,Brazil,AA,11569000.0,13794000.0,1.46,0.372,10.05,0.118,2.7,2002,True
+BORR-000153,Enterprise Corp 153,Utilities,Europe,United Kingdom,BB,13541000.0,12206000.0,3.87,0.549,6.57,0.034,1.57,1986,True
+BORR-000154,Enterprise Corp 154,Energy,North America,Canada,BB,50789000.0,88070000.0,2.92,0.501,3.83,0.098,1.39,2008,True
+BORR-000155,Enterprise Corp 155,Consumer Discretionary,Asia-Pacific,Japan,BBB,30619000.0,44468000.0,2.45,0.367,5.52,0.121,1.69,1975,True
+BORR-000156,Enterprise Corp 156,Real Estate,North America,Canada,BB,25355000.0,22688000.0,3.58,0.524,3.28,0.129,1.85,2003,True
+BORR-000157,Enterprise Corp 157,Healthcare,Asia-Pacific,South Korea,AA,9039000.0,14354000.0,2.18,0.355,11.64,0.129,2.43,1997,True
+BORR-000158,Enterprise Corp 158,Industrials,North America,Canada,A,62960000.0,73563000.0,2.92,0.527,8.17,0.132,1.85,2000,True
+BORR-000159,Enterprise Corp 159,Industrials,Europe,Netherlands,BBB,1836246000.0,1918640000.0,2.57,0.474,6.98,0.061,1.37,2010,True
+BORR-000160,Enterprise Corp 160,Telecommunications,North America,Canada,AA,33583000.0,46008000.0,2.17,0.264,7.59,0.14,2.69,2003,True
+BORR-000161,Enterprise Corp 161,Utilities,North America,United States,BBB,16512000.0,13430000.0,2.51,0.399,6.4,0.084,1.72,2005,True
+BORR-000162,Enterprise Corp 162,Real Estate,Latin America,Chile,A,3087000.0,3906000.0,3.21,0.423,8.41,0.139,2.26,2005,True
+BORR-000163,Enterprise Corp 163,Consumer Discretionary,North America,United States,BBB,6818000.0,11207000.0,2.33,0.364,6.1,0.131,2.25,1987,True
+BORR-000164,Enterprise Corp 164,Consumer Discretionary,North America,United States,BBB,11337000.0,19591000.0,3.56,0.503,7.69,0.13,1.49,2004,True
+BORR-000165,Enterprise Corp 165,Consumer Discretionary,North America,United States,BB,7713000.0,8813000.0,3.17,0.599,7.77,0.05,1.59,2011,True
+BORR-000166,Enterprise Corp 166,Materials,Asia-Pacific,Singapore,A,14371000.0,20729000.0,3.31,0.416,6.66,0.155,2.11,2005,True
+BORR-000167,Enterprise Corp 167,Financials,Asia-Pacific,Australia,B,123731000.0,127050000.0,4.4,0.617,2.37,0.049,1.43,1997,True
+BORR-000168,Enterprise Corp 168,Healthcare,Middle East,UAE,BBB,65437000.0,89008000.0,2.39,0.504,5.35,0.09,2.25,1964,True
+BORR-000169,Enterprise Corp 169,Financials,North America,Canada,A,12108000.0,12762000.0,2.04,0.4,9.73,0.104,1.76,1986,True
+BORR-000170,Enterprise Corp 170,Technology,Europe,Netherlands,BBB,3437000.0,4713000.0,3.29,0.423,7.65,0.083,2.05,1963,True
+BORR-000171,Enterprise Corp 171,Healthcare,North America,Canada,BBB,72918000.0,70856000.0,3.43,0.581,6.24,0.152,2.19,1966,True
+BORR-000172,Enterprise Corp 172,Technology,Europe,Switzerland,A,13813000.0,24052000.0,2.26,0.369,7.84,0.134,2.1,1982,True
+BORR-000173,Enterprise Corp 173,Telecommunications,Middle East,Saudi Arabia,BBB,1845000.0,3112000.0,2.92,0.517,5.42,0.105,1.84,1988,True
+BORR-000174,Enterprise Corp 174,Telecommunications,Asia-Pacific,Singapore,A,34446000.0,39162000.0,2.68,0.245,8.87,0.117,2.29,1992,True
+BORR-000175,Enterprise Corp 175,Real Estate,Europe,Switzerland,BBB,50165000.0,79093000.0,2.97,0.547,5.94,0.173,1.98,2014,True
+BORR-000176,Enterprise Corp 176,Consumer Discretionary,North America,Canada,BBB,797000.0,714000.0,2.25,0.558,6.09,0.139,2.05,2006,True
+BORR-000177,Enterprise Corp 177,Telecommunications,Latin America,Mexico,BBB,5447000.0,8390000.0,2.49,0.472,7.13,0.078,2.05,1985,True
+BORR-000178,Enterprise Corp 178,Healthcare,Europe,Germany,BB,12832000.0,13890000.0,3.62,0.584,4.77,0.067,1.31,1980,True
+BORR-000179,Enterprise Corp 179,Utilities,North America,United States,A,35371000.0,33095000.0,2.91,0.424,7.52,0.119,2.46,2003,True
+BORR-000180,Enterprise Corp 180,Industrials,North America,United States,B,7890000.0,11663000.0,4.91,0.591,3.61,0.054,1.67,1976,True
+BORR-000181,Enterprise Corp 181,Utilities,North America,United States,BB,5397000.0,6853000.0,3.89,0.583,5.95,0.054,1.66,2013,True
+BORR-000182,Enterprise Corp 182,Healthcare,North America,United States,B,35061000.0,46636000.0,4.24,0.581,5.58,0.063,0.87,2007,True
+BORR-000183,Enterprise Corp 183,Consumer Discretionary,North America,Canada,BB,8352000.0,11029000.0,3.87,0.513,5.7,0.119,1.57,2001,True
+BORR-000184,Enterprise Corp 184,Real Estate,Europe,United Kingdom,A,28077000.0,24131000.0,1.97,0.458,8.76,0.086,2.22,1975,True
+BORR-000185,Enterprise Corp 185,Consumer Discretionary,Europe,Netherlands,BBB,3860000.0,3286000.0,2.82,0.528,6.16,0.066,1.54,1997,True
+BORR-000186,Enterprise Corp 186,Consumer Discretionary,North America,Canada,A,2891000.0,4051000.0,1.89,0.348,6.95,0.111,2.05,2010,True
+BORR-000187,Enterprise Corp 187,Healthcare,Europe,Netherlands,BB,36264000.0,51635000.0,2.88,0.506,5.78,0.062,1.18,1964,True
+BORR-000188,Enterprise Corp 188,Financials,Middle East,Saudi Arabia,BBB,19836000.0,16805000.0,3.07,0.431,6.61,0.16,2.06,1970,True
+BORR-000189,Enterprise Corp 189,Energy,Asia-Pacific,Japan,A,44320000.0,52228000.0,2.39,0.434,6.09,0.155,2.21,1991,True
+BORR-000190,Enterprise Corp 190,Financials,Europe,Switzerland,B,7732000.0,10924000.0,4.44,0.57,3.21,0.078,0.83,1981,True
+BORR-000191,Enterprise Corp 191,Real Estate,North America,United States,A,5643000.0,8220000.0,2.57,0.411,7.7,0.117,2.27,2003,True
+BORR-000192,Enterprise Corp 192,Real Estate,Latin America,Chile,BBB,74990000.0,122104000.0,3.02,0.515,5.79,0.091,1.86,1984,True
+BORR-000193,Enterprise Corp 193,Real Estate,North America,Canada,BB,2356000.0,2876000.0,3.78,0.545,6.78,0.031,1.75,2020,True
+BORR-000194,Enterprise Corp 194,Financials,North America,United States,AA,65775000.0,88682000.0,1.68,0.371,9.78,0.173,2.32,1978,True
+BORR-000195,Enterprise Corp 195,Utilities,Latin America,Chile,BBB,71457000.0,98508000.0,3.11,0.452,8.05,0.115,1.64,1981,True
+BORR-000196,Enterprise Corp 196,Technology,Europe,United Kingdom,BB,41124000.0,45732000.0,3.14,0.537,5.32,0.114,1.37,1960,True
+BORR-000197,Enterprise Corp 197,Financials,Asia-Pacific,Japan,AA,6418000.0,5480000.0,1.88,0.251,9.3,0.144,2.28,1975,True
+BORR-000198,Enterprise Corp 198,Healthcare,Europe,Switzerland,BBB,5500000.0,4423000.0,3.23,0.531,5.28,0.096,1.89,1974,True
+BORR-000199,Enterprise Corp 199,Financials,Europe,Switzerland,A,11386000.0,18629000.0,1.97,0.344,7.81,0.13,2.2,2006,True
+BORR-000200,Enterprise Corp 200,Utilities,North America,United States,BBB,3097000.0,3098000.0,2.93,0.491,6.42,0.127,1.82,1980,True
+BORR-000201,Enterprise Corp 201,Financials,North America,Canada,A,4620000.0,6608000.0,1.99,0.386,6.16,0.081,2.03,1972,True
+BORR-000202,Enterprise Corp 202,Utilities,North America,Canada,B,31759000.0,43734000.0,3.84,0.567,2.95,0.072,1.21,1979,True
+BORR-000203,Enterprise Corp 203,Consumer Discretionary,North America,Canada,B,31935000.0,38310000.0,3.54,0.593,3.21,0.049,2.07,1994,True
+BORR-000204,Enterprise Corp 204,Real Estate,Asia-Pacific,Japan,A,4158000.0,6792000.0,2.93,0.473,8.3,0.093,1.93,2007,True
+BORR-000205,Enterprise Corp 205,Consumer Discretionary,North America,United States,A,32978000.0,49414000.0,2.83,0.402,8.35,0.062,1.99,2019,True
+BORR-000206,Enterprise Corp 206,Energy,Europe,Netherlands,BBB,25271000.0,20791000.0,3.17,0.409,5.7,0.096,2.87,1962,True
+BORR-000207,Enterprise Corp 207,Telecommunications,Asia-Pacific,South Korea,BB,89689000.0,141412000.0,4.49,0.568,5.56,0.118,1.73,2011,True
+BORR-000208,Enterprise Corp 208,Utilities,Asia-Pacific,South Korea,BBB,29005000.0,37910000.0,2.81,0.461,6.18,0.15,1.47,1983,True
+BORR-000209,Enterprise Corp 209,Energy,Europe,France,A,52185000.0,59857000.0,3.82,0.597,4.36,0.136,2.41,2009,True
+BORR-000210,Enterprise Corp 210,Telecommunications,Europe,Germany,AA,25971000.0,39655000.0,1.59,0.327,8.62,0.209,2.17,1962,True
+BORR-000211,Enterprise Corp 211,Energy,Middle East,Qatar,CCC,47485000.0,70566000.0,4.83,0.687,3.49,0.024,1.31,1998,True
+BORR-000212,Enterprise Corp 212,Telecommunications,Europe,Germany,BBB,3127000.0,3473000.0,2.7,0.555,4.38,0.129,1.82,2016,True
+BORR-000213,Enterprise Corp 213,Telecommunications,Asia-Pacific,Singapore,BB,12659000.0,22571000.0,3.69,0.44,5.14,0.061,1.47,1962,True
+BORR-000214,Enterprise Corp 214,Consumer Discretionary,Latin America,Chile,BBB,13981000.0,20254000.0,3.32,0.476,8.3,0.085,2.36,2008,True
+BORR-000215,Enterprise Corp 215,Telecommunications,Asia-Pacific,Australia,B,10935000.0,15372000.0,4.04,0.75,2.69,0.03,1.49,1966,True
+BORR-000216,Enterprise Corp 216,Energy,North America,United States,AA,24957000.0,21710000.0,2.59,0.303,9.2,0.088,2.73,2019,True
+BORR-000217,Enterprise Corp 217,Technology,Europe,United Kingdom,A,31367000.0,33855000.0,2.42,0.286,6.24,0.164,2.29,2005,True
+BORR-000218,Enterprise Corp 218,Technology,North America,United States,B,23458000.0,29252000.0,4.24,0.606,5.55,0.031,1.19,2015,True
+BORR-000219,Enterprise Corp 219,Consumer Discretionary,Europe,Switzerland,B,11848000.0,16950000.0,3.65,0.717,3.5,0.026,1.5,2014,True
+BORR-000220,Enterprise Corp 220,Utilities,Middle East,Saudi Arabia,A,6059000.0,7954000.0,2.51,0.413,7.86,0.09,2.52,1979,True
+BORR-000221,Enterprise Corp 221,Healthcare,Europe,Netherlands,BBB,54659000.0,85434000.0,2.83,0.42,8.03,0.094,1.92,1985,True
+BORR-000222,Enterprise Corp 222,Consumer Discretionary,Europe,Germany,BBB,22291000.0,23686000.0,2.6,0.429,7.19,0.153,2.42,2002,True
+BORR-000223,Enterprise Corp 223,Telecommunications,North America,Canada,BBB,4315000.0,6482000.0,2.51,0.436,5.35,0.163,2.14,1970,True
+BORR-000224,Enterprise Corp 224,Energy,Middle East,Qatar,A,11612000.0,18772000.0,3.64,0.412,7.02,0.075,2.22,1978,True
+BORR-000225,Enterprise Corp 225,Telecommunications,North America,Canada,B,1809000.0,2831000.0,3.97,0.71,4.19,0.039,1.4,1966,True
+BORR-000226,Enterprise Corp 226,Financials,North America,Canada,A,15286000.0,24012000.0,1.57,0.453,7.05,0.094,2.2,2014,True
+BORR-000227,Enterprise Corp 227,Materials,North America,Canada,BB,11547000.0,19497000.0,3.15,0.577,2.46,0.105,1.22,1975,True
+BORR-000228,Enterprise Corp 228,Industrials,North America,United States,AA,7353000.0,6501000.0,1.67,0.23,9.14,0.159,2.41,1985,True
+BORR-000229,Enterprise Corp 229,Industrials,Europe,Netherlands,AA,98102000.0,146877000.0,1.97,0.23,7.42,0.131,2.51,1987,True
+BORR-000230,Enterprise Corp 230,Healthcare,Europe,Switzerland,BBB,3659000.0,6472000.0,3.18,0.502,8.34,0.102,1.76,1982,True
+BORR-000231,Enterprise Corp 231,Consumer Discretionary,North America,Canada,BBB,34198000.0,46976000.0,3.24,0.389,6.61,0.086,1.98,2007,True
+BORR-000232,Enterprise Corp 232,Materials,North America,United States,BBB,202055000.0,205554000.0,2.58,0.456,5.31,0.148,1.89,2015,True
+BORR-000233,Enterprise Corp 233,Technology,North America,Canada,AA,53368000.0,95996000.0,1.87,0.328,8.36,0.166,2.67,1994,True
+BORR-000234,Enterprise Corp 234,Telecommunications,North America,United States,B,14107000.0,13750000.0,3.66,0.562,1.33,0.07,1.52,2011,True
+BORR-000235,Enterprise Corp 235,Consumer Discretionary,North America,Canada,BB,3757000.0,4266000.0,3.19,0.489,3.68,-0.005,1.65,1966,True
+BORR-000236,Enterprise Corp 236,Telecommunications,Europe,France,BB,2858000.0,2778000.0,3.04,0.544,6.22,0.073,1.19,2018,True
+BORR-000237,Enterprise Corp 237,Real Estate,North America,United States,A,8941000.0,11306000.0,1.71,0.42,10.48,0.187,2.7,1967,True
+BORR-000238,Enterprise Corp 238,Consumer Discretionary,North America,Canada,A,6424000.0,7830000.0,2.83,0.454,8.67,0.165,2.12,1964,True
+BORR-000239,Enterprise Corp 239,Financials,North America,Canada,BBB,6178000.0,7977000.0,3.24,0.506,6.29,0.045,1.86,1961,True
+BORR-000240,Enterprise Corp 240,Real Estate,Europe,United Kingdom,BBB,9904000.0,17114000.0,3.39,0.474,5.88,0.091,1.78,1974,True
+BORR-000241,Enterprise Corp 241,Healthcare,North America,United States,A,12959000.0,16566000.0,2.32,0.345,6.65,0.089,2.01,2011,True
+BORR-000242,Enterprise Corp 242,Industrials,North America,United States,AA,26226000.0,34477000.0,2.09,0.246,11.67,0.201,2.9,1978,True
+BORR-000243,Enterprise Corp 243,Technology,Asia-Pacific,South Korea,BBB,3317000.0,5595000.0,2.02,0.439,6.17,0.107,2.3,2008,True
+BORR-000244,Enterprise Corp 244,Real Estate,North America,Canada,A,6461000.0,10452000.0,2.73,0.415,10.34,0.102,2.29,1985,True
+BORR-000245,Enterprise Corp 245,Real Estate,Europe,Netherlands,BBB,12096000.0,12576000.0,2.99,0.49,8.07,0.101,1.85,1966,True
+BORR-000246,Enterprise Corp 246,Technology,Europe,Switzerland,A,11587000.0,9419000.0,2.61,0.264,5.71,0.047,2.35,1988,True
+BORR-000247,Enterprise Corp 247,Telecommunications,North America,Canada,A,132714000.0,189715000.0,2.49,0.343,7.0,0.092,2.18,1974,True
+BORR-000248,Enterprise Corp 248,Consumer Discretionary,Europe,United Kingdom,BBB,19360000.0,31844000.0,2.41,0.542,5.6,0.101,1.82,1977,True
+BORR-000249,Enterprise Corp 249,Telecommunications,Asia-Pacific,Japan,BBB,2113000.0,2859000.0,2.15,0.475,6.3,0.125,1.98,1991,True
+BORR-000250,Enterprise Corp 250,Technology,Asia-Pacific,Singapore,BBB,24199000.0,24469000.0,2.54,0.385,6.33,0.042,1.75,2008,True
+BORR-000251,Enterprise Corp 251,Healthcare,North America,United States,BBB,28199000.0,43465000.0,3.18,0.611,10.0,0.089,1.96,1995,True
+BORR-000252,Enterprise Corp 252,Consumer Discretionary,North America,Canada,BB,12608000.0,18528000.0,3.85,0.548,3.71,0.105,1.66,1973,True
+BORR-000253,Enterprise Corp 253,Healthcare,North America,United States,BBB,3416000.0,4663000.0,2.22,0.493,6.67,0.056,2.06,2003,True
+BORR-000254,Enterprise Corp 254,Financials,Europe,Germany,BBB,120802000.0,200934000.0,2.41,0.494,7.14,0.107,1.69,2002,True
+BORR-000255,Enterprise Corp 255,Real Estate,Europe,Germany,B,4058000.0,6429000.0,3.74,0.608,3.6,0.052,1.53,1974,True
+BORR-000256,Enterprise Corp 256,Healthcare,North America,United States,BBB,32376000.0,47526000.0,2.72,0.426,6.53,0.151,1.61,2011,True
+BORR-000257,Enterprise Corp 257,Real Estate,North America,United States,B,18626000.0,27283000.0,3.42,0.757,2.35,0.043,1.15,2011,True
+BORR-000258,Enterprise Corp 258,Healthcare,Latin America,Brazil,BB,30128000.0,44053000.0,2.79,0.61,5.13,0.07,1.44,1996,True
+BORR-000259,Enterprise Corp 259,Healthcare,North America,Canada,AA,113604000.0,150544000.0,1.29,0.359,9.81,0.176,2.12,1978,True
+BORR-000260,Enterprise Corp 260,Industrials,Europe,France,BBB,28745000.0,36331000.0,2.94,0.505,6.79,0.06,2.18,1981,True
+BORR-000261,Enterprise Corp 261,Telecommunications,Asia-Pacific,Singapore,BB,7494000.0,11313000.0,2.91,0.49,5.68,0.068,1.31,1986,True
+BORR-000262,Enterprise Corp 262,Healthcare,North America,United States,CCC,55240000.0,77916000.0,4.64,0.787,3.9,0.011,0.83,1971,True
+BORR-000263,Enterprise Corp 263,Energy,North America,Canada,BBB,6870000.0,8862000.0,3.43,0.419,7.52,0.096,2.26,1978,True
+BORR-000264,Enterprise Corp 264,Utilities,North America,Canada,AA,17828000.0,16521000.0,1.05,0.327,9.29,0.175,2.27,1968,True
+BORR-000265,Enterprise Corp 265,Utilities,Latin America,Mexico,BBB,3104000.0,4662000.0,2.8,0.372,4.99,0.117,1.82,1969,True
+BORR-000266,Enterprise Corp 266,Industrials,North America,Canada,A,4240000.0,6131000.0,2.81,0.268,7.08,0.103,1.86,2005,True
+BORR-000267,Enterprise Corp 267,Consumer Discretionary,North America,Canada,BB,15583000.0,17800000.0,3.29,0.569,4.74,0.079,1.85,1967,True
+BORR-000268,Enterprise Corp 268,Financials,North America,Canada,BBB,22787000.0,26349000.0,2.61,0.421,6.7,0.145,2.13,1988,True
+BORR-000269,Enterprise Corp 269,Real Estate,North America,United States,BB,1900000.0,1989000.0,4.08,0.431,4.43,0.05,1.82,1986,True
+BORR-000270,Enterprise Corp 270,Industrials,Europe,Switzerland,BB,26609000.0,46883000.0,3.35,0.582,3.88,0.079,1.76,1962,True
+BORR-000271,Enterprise Corp 271,Energy,North America,United States,BBB,5480000.0,9098000.0,3.45,0.597,4.97,0.094,1.9,2010,True
+BORR-000272,Enterprise Corp 272,Technology,Europe,France,BBB,68041000.0,92607000.0,3.11,0.553,4.42,0.098,1.72,2020,True
+BORR-000273,Enterprise Corp 273,Healthcare,Europe,Netherlands,BB,9604000.0,11541000.0,3.33,0.535,4.72,0.026,1.36,1998,True
+BORR-000274,Enterprise Corp 274,Utilities,Asia-Pacific,Singapore,BB,3804000.0,5846000.0,3.74,0.551,3.24,0.117,1.99,2000,True
+BORR-000275,Enterprise Corp 275,Consumer Discretionary,North America,United States,BB,16046000.0,21305000.0,3.66,0.603,3.8,0.052,1.83,1974,True
+BORR-000276,Enterprise Corp 276,Consumer Discretionary,Asia-Pacific,South Korea,AA,4879000.0,8664000.0,2.21,0.377,8.73,0.181,2.23,2011,True
+BORR-000277,Enterprise Corp 277,Consumer Discretionary,Europe,United Kingdom,BBB,67170000.0,57439000.0,2.63,0.449,4.8,0.081,1.89,2007,True
+BORR-000278,Enterprise Corp 278,Telecommunications,North America,United States,A,14660000.0,12231000.0,2.32,0.392,8.26,0.106,2.07,1986,True
+BORR-000279,Enterprise Corp 279,Technology,Asia-Pacific,South Korea,BB,12213000.0,16715000.0,3.47,0.568,5.89,0.111,1.26,2003,True
+BORR-000280,Enterprise Corp 280,Technology,Asia-Pacific,Australia,BBB,29804000.0,29902000.0,3.25,0.503,5.74,0.13,1.93,2018,True
+BORR-000281,Enterprise Corp 281,Energy,North America,United States,BBB,4387000.0,6161000.0,2.39,0.462,5.88,0.106,1.76,1996,True
+BORR-000282,Enterprise Corp 282,Consumer Discretionary,Latin America,Chile,A,3119000.0,4932000.0,2.81,0.383,8.44,0.148,1.87,1972,True
+BORR-000283,Enterprise Corp 283,Real Estate,Europe,Switzerland,BBB,23915000.0,22435000.0,3.13,0.553,5.54,0.091,1.44,1980,True
+BORR-000284,Enterprise Corp 284,Consumer Discretionary,Europe,United Kingdom,BB,3915000.0,4857000.0,2.84,0.623,4.06,0.075,1.13,1971,True
+BORR-000285,Enterprise Corp 285,Consumer Discretionary,Middle East,Saudi Arabia,A,3914000.0,5827000.0,2.9,0.419,9.24,0.105,2.05,1980,True
+BORR-000286,Enterprise Corp 286,Utilities,North America,United States,AA,39989000.0,65337000.0,2.82,0.413,10.26,0.177,2.41,2014,True
+BORR-000287,Enterprise Corp 287,Healthcare,Asia-Pacific,Japan,B,27510000.0,35662000.0,4.6,0.607,4.32,0.029,1.06,1971,True
+BORR-000288,Enterprise Corp 288,Industrials,North America,United States,BB,3254000.0,3274000.0,4.21,0.647,6.11,0.12,1.8,2014,True
+BORR-000289,Enterprise Corp 289,Industrials,Asia-Pacific,Japan,A,6969000.0,9658000.0,2.34,0.423,5.43,0.116,2.14,1977,True
+BORR-000290,Enterprise Corp 290,Consumer Discretionary,Europe,United Kingdom,A,4953000.0,6214000.0,1.47,0.586,9.42,0.126,2.33,1990,True
+BORR-000291,Enterprise Corp 291,Materials,North America,United States,CCC,123479000.0,194100000.0,3.78,0.638,2.67,0.048,0.99,1992,True
+BORR-000292,Enterprise Corp 292,Energy,Europe,France,BB,43454000.0,58905000.0,3.63,0.509,6.21,0.076,1.36,1967,True
+BORR-000293,Enterprise Corp 293,Utilities,North America,United States,BBB,8842000.0,9544000.0,2.6,0.495,6.86,0.091,1.91,1971,True
+BORR-000294,Enterprise Corp 294,Financials,North America,United States,A,29251000.0,45468000.0,1.84,0.414,7.86,0.124,1.78,1978,True
+BORR-000295,Enterprise Corp 295,Industrials,North America,United States,A,2878000.0,3792000.0,2.27,0.507,7.47,0.152,2.32,1963,True
+BORR-000296,Enterprise Corp 296,Industrials,North America,Canada,AA,6536000.0,6389000.0,2.01,0.27,9.64,0.13,2.16,2006,True
+BORR-000297,Enterprise Corp 297,Materials,North America,United States,BB,16615000.0,22647000.0,2.77,0.604,4.63,0.071,1.88,1993,True
+BORR-000298,Enterprise Corp 298,Consumer Discretionary,North America,Canada,AA,25208000.0,44072000.0,1.48,0.38,10.24,0.15,2.34,2011,True
+BORR-000299,Enterprise Corp 299,Energy,Asia-Pacific,Australia,AAA,13034000.0,19623000.0,1.85,0.272,8.7,0.201,3.04,2012,True
+BORR-000300,Enterprise Corp 300,Technology,Asia-Pacific,South Korea,BB,19729000.0,21678000.0,2.96,0.492,4.35,0.072,1.26,1981,True
+BORR-000301,Enterprise Corp 301,Financials,Asia-Pacific,Australia,B,16095000.0,24318000.0,4.53,0.714,6.05,0.104,1.12,2009,True
+BORR-000302,Enterprise Corp 302,Materials,North America,United States,BB,12040000.0,13035000.0,3.26,0.624,4.25,0.07,1.71,1963,True
+BORR-000303,Enterprise Corp 303,Technology,Latin America,Mexico,BBB,10269000.0,13788000.0,3.17,0.506,6.11,0.093,2.23,1986,True
+BORR-000304,Enterprise Corp 304,Materials,Europe,Germany,BBB,8784000.0,11653000.0,3.45,0.482,5.34,0.095,2.38,2000,True
+BORR-000305,Enterprise Corp 305,Industrials,North America,United States,BBB,19352000.0,20269000.0,3.27,0.484,6.8,0.061,1.89,1988,True
+BORR-000306,Enterprise Corp 306,Healthcare,North America,United States,A,23986000.0,27533000.0,2.75,0.385,6.92,0.094,2.71,2005,True
+BORR-000307,Enterprise Corp 307,Financials,Europe,Germany,BBB,18588000.0,32384000.0,2.32,0.508,6.18,0.084,1.79,2012,True
+BORR-000308,Enterprise Corp 308,Industrials,North America,United States,BBB,3561000.0,3741000.0,3.46,0.472,7.42,0.134,2.21,1985,True
+BORR-000309,Enterprise Corp 309,Financials,Europe,United Kingdom,BBB,4418000.0,7073000.0,2.47,0.419,5.56,0.099,1.6,1976,True
+BORR-000310,Enterprise Corp 310,Healthcare,Middle East,Qatar,B,23645000.0,34696000.0,4.23,0.567,4.55,0.035,1.45,1995,True
+BORR-000311,Enterprise Corp 311,Real Estate,North America,Canada,CCC,85670000.0,114166000.0,4.83,0.665,3.19,0.062,0.4,2012,True
+BORR-000312,Enterprise Corp 312,Real Estate,North America,United States,AA,17591000.0,16492000.0,1.94,0.323,10.47,0.197,2.1,2020,True
+BORR-000313,Enterprise Corp 313,Healthcare,Middle East,Qatar,BBB,8940000.0,8981000.0,3.07,0.468,6.57,0.138,2.02,2009,True
+BORR-000314,Enterprise Corp 314,Energy,Europe,Germany,A,19177000.0,18774000.0,1.88,0.403,11.69,0.099,1.77,1974,True
+BORR-000315,Enterprise Corp 315,Energy,North America,United States,BBB,3745000.0,5194000.0,2.23,0.5,7.67,0.085,2.01,1972,True
+BORR-000316,Enterprise Corp 316,Real Estate,Latin America,Chile,A,70472000.0,124974000.0,2.74,0.352,8.19,0.179,2.43,1994,True
+BORR-000317,Enterprise Corp 317,Telecommunications,Latin America,Mexico,A,18327000.0,30739000.0,2.39,0.478,6.75,0.132,2.01,1984,True
+BORR-000318,Enterprise Corp 318,Telecommunications,Europe,Germany,BB,6561000.0,5414000.0,4.07,0.534,4.88,0.067,1.31,1997,True
+BORR-000319,Enterprise Corp 319,Utilities,Europe,Germany,BBB,11993000.0,12877000.0,2.88,0.444,8.11,0.122,1.74,2016,True
+BORR-000320,Enterprise Corp 320,Telecommunications,North America,United States,B,7784000.0,7451000.0,3.4,0.659,5.65,0.08,1.03,1993,True
+BORR-000321,Enterprise Corp 321,Financials,North America,United States,AA,70703000.0,125546000.0,2.18,0.2,10.97,0.133,2.41,1981,True
+BORR-000322,Enterprise Corp 322,Healthcare,Europe,United Kingdom,AA,11494000.0,11903000.0,1.51,0.263,10.14,0.157,2.47,2013,True
+BORR-000323,Enterprise Corp 323,Real Estate,North America,Canada,BBB,17653000.0,17676000.0,3.07,0.529,4.89,0.128,1.79,1986,True
+BORR-000324,Enterprise Corp 324,Utilities,Europe,Netherlands,AA,29165000.0,41440000.0,1.38,0.206,9.78,0.115,2.94,1996,True
+BORR-000325,Enterprise Corp 325,Utilities,Asia-Pacific,Singapore,A,6023000.0,8168000.0,3.12,0.457,6.31,0.125,1.94,1968,True
+BORR-000326,Enterprise Corp 326,Energy,North America,Canada,CCC,18485000.0,18963000.0,4.26,0.801,0.42,-0.008,1.46,1990,True
+BORR-000327,Enterprise Corp 327,Energy,Europe,United Kingdom,A,20365000.0,29944000.0,2.13,0.368,8.09,0.095,1.85,1986,True
+BORR-000328,Enterprise Corp 328,Technology,North America,United States,A,2270000.0,2036000.0,2.35,0.408,8.43,0.108,2.18,1967,True
+BORR-000329,Enterprise Corp 329,Healthcare,Asia-Pacific,Singapore,BBB,19840000.0,16256000.0,2.35,0.537,7.48,0.114,2.23,1972,True
+BORR-000330,Enterprise Corp 330,Industrials,North America,Canada,BBB,13868000.0,12237000.0,3.07,0.442,7.0,0.09,2.22,2002,True
+BORR-000331,Enterprise Corp 331,Industrials,Europe,Netherlands,BBB,17123000.0,19946000.0,3.71,0.522,7.04,0.081,1.75,1971,True
+BORR-000332,Enterprise Corp 332,Financials,Europe,Switzerland,BBB,15291000.0,27142000.0,2.65,0.43,5.22,0.102,2.05,1968,True
+BORR-000333,Enterprise Corp 333,Financials,North America,United States,BB,19995000.0,26938000.0,3.7,0.521,4.87,0.041,1.73,1963,True
+BORR-000334,Enterprise Corp 334,Materials,Europe,Switzerland,A,72916000.0,113364000.0,0.93,0.342,5.99,0.138,2.0,1961,True
+BORR-000335,Enterprise Corp 335,Consumer Discretionary,Asia-Pacific,Japan,BBB,3558000.0,3990000.0,2.88,0.491,4.0,0.134,2.06,1986,True
+BORR-000336,Enterprise Corp 336,Materials,Europe,Germany,BB,9717000.0,14763000.0,3.34,0.619,5.89,0.073,2.16,1989,True
+BORR-000337,Enterprise Corp 337,Utilities,Asia-Pacific,Australia,BB,32604000.0,57585000.0,3.09,0.539,4.1,0.069,1.74,1998,True
+BORR-000338,Enterprise Corp 338,Financials,Middle East,UAE,BBB,26091000.0,30207000.0,3.44,0.394,7.45,0.111,2.05,1994,True
+BORR-000339,Enterprise Corp 339,Energy,Europe,Switzerland,BBB,25426000.0,45743000.0,2.74,0.405,7.73,0.039,2.08,1992,True
+BORR-000340,Enterprise Corp 340,Utilities,Europe,Switzerland,AA,398928000.0,573822000.0,1.61,0.334,8.46,0.166,2.0,2020,True
+BORR-000341,Enterprise Corp 341,Real Estate,North America,Canada,A,30614000.0,47409000.0,2.11,0.501,8.51,0.218,2.3,1975,True
+BORR-000342,Enterprise Corp 342,Energy,Asia-Pacific,Singapore,AA,56918000.0,59887000.0,0.74,0.334,8.41,0.146,2.13,2003,True
+BORR-000343,Enterprise Corp 343,Real Estate,Europe,United Kingdom,BB,10135000.0,14626000.0,2.93,0.527,2.78,0.071,1.42,1964,True
+BORR-000344,Enterprise Corp 344,Industrials,Europe,Netherlands,A,4450000.0,5834000.0,2.78,0.436,7.95,0.147,2.81,2011,True
+BORR-000345,Enterprise Corp 345,Utilities,North America,Canada,BB,10047000.0,17647000.0,2.45,0.536,4.43,0.124,1.52,1982,True
+BORR-000346,Enterprise Corp 346,Energy,Latin America,Chile,AA,34427000.0,58687000.0,1.32,0.287,8.67,0.179,2.22,1981,True
+BORR-000347,Enterprise Corp 347,Utilities,North America,Canada,BB,23871000.0,28566000.0,3.3,0.492,7.37,0.01,1.95,1968,True
+BORR-000348,Enterprise Corp 348,Utilities,Europe,United Kingdom,BB,23769000.0,41521000.0,4.37,0.635,3.17,0.092,1.32,1991,True
+BORR-000349,Enterprise Corp 349,Healthcare,North America,United States,AA,11328000.0,19086000.0,2.08,0.158,9.66,0.227,2.31,1984,True
+BORR-000350,Enterprise Corp 350,Healthcare,Middle East,Qatar,AAA,9355000.0,13007000.0,0.82,0.278,9.41,0.194,3.09,2019,True
+BORR-000351,Enterprise Corp 351,Industrials,North America,United States,AA,11807000.0,10415000.0,2.35,0.282,10.29,0.115,2.45,1970,True
+BORR-000352,Enterprise Corp 352,Technology,North America,Canada,BB,34948000.0,33578000.0,3.13,0.525,5.36,0.083,1.13,1985,True
+BORR-000353,Enterprise Corp 353,Energy,Asia-Pacific,Japan,A,40180000.0,35233000.0,2.8,0.492,8.26,0.087,2.32,2014,True
+BORR-000354,Enterprise Corp 354,Consumer Discretionary,Latin America,Chile,BBB,4380000.0,3977000.0,2.22,0.427,5.27,0.137,1.76,2009,True
+BORR-000355,Enterprise Corp 355,Utilities,North America,Canada,BBB,36573000.0,64988000.0,3.44,0.429,5.48,0.071,2.34,2006,True
+BORR-000356,Enterprise Corp 356,Utilities,Europe,France,BB,6710000.0,6792000.0,3.3,0.542,6.11,0.077,1.42,1992,True
+BORR-000357,Enterprise Corp 357,Healthcare,Asia-Pacific,Japan,BBB,25718000.0,38342000.0,2.39,0.495,8.52,0.074,2.2,2013,True
+BORR-000358,Enterprise Corp 358,Materials,Asia-Pacific,South Korea,BBB,11636000.0,16715000.0,2.79,0.443,6.98,0.084,2.41,1973,True
+BORR-000359,Enterprise Corp 359,Technology,North America,United States,CCC,95912000.0,137264000.0,4.84,0.616,1.12,0.07,0.78,2009,True
+BORR-000360,Enterprise Corp 360,Telecommunications,Europe,France,A,8871000.0,8930000.0,2.05,0.338,8.21,0.128,2.1,1995,True
+BORR-000361,Enterprise Corp 361,Materials,Asia-Pacific,South Korea,BB,18153000.0,25039000.0,3.78,0.627,7.91,0.058,1.72,1981,True
+BORR-000362,Enterprise Corp 362,Materials,Asia-Pacific,Australia,AA,30338000.0,43248000.0,1.41,0.314,9.32,0.116,2.18,1973,True
+BORR-000363,Enterprise Corp 363,Energy,Asia-Pacific,Japan,BBB,5133000.0,7034000.0,3.21,0.497,8.15,0.044,1.96,1991,True
+BORR-000364,Enterprise Corp 364,Materials,Europe,Switzerland,B,13424000.0,13238000.0,4.32,0.614,2.71,0.012,1.25,1960,True
+BORR-000365,Enterprise Corp 365,Healthcare,North America,United States,BBB,10640000.0,16205000.0,2.87,0.43,6.35,0.103,1.81,2003,True
+BORR-000366,Enterprise Corp 366,Industrials,Latin America,Chile,BB,7908000.0,6906000.0,3.28,0.651,5.74,0.104,1.61,1974,True
+BORR-000367,Enterprise Corp 367,Consumer Discretionary,Asia-Pacific,Australia,A,8644000.0,12026000.0,2.38,0.379,8.28,0.108,2.18,1983,True
+BORR-000368,Enterprise Corp 368,Financials,Asia-Pacific,Singapore,BBB,55640000.0,68785000.0,3.18,0.443,5.48,0.147,1.93,1971,True
+BORR-000369,Enterprise Corp 369,Technology,North America,United States,BBB,7144000.0,7503000.0,3.93,0.536,5.43,0.078,1.7,1988,True
+BORR-000370,Enterprise Corp 370,Telecommunications,North America,United States,BBB,28910000.0,46470000.0,3.37,0.427,7.59,0.093,1.71,1982,True
+BORR-000371,Enterprise Corp 371,Financials,Asia-Pacific,South Korea,BBB,21370000.0,20855000.0,3.39,0.434,7.83,0.068,1.84,1971,True
+BORR-000372,Enterprise Corp 372,Real Estate,North America,United States,A,2740000.0,4748000.0,3.84,0.391,9.61,0.155,2.15,2014,True
+BORR-000373,Enterprise Corp 373,Consumer Discretionary,Middle East,UAE,A,27317000.0,46017000.0,2.56,0.39,9.96,0.188,2.03,2006,True
+BORR-000374,Enterprise Corp 374,Financials,North America,Canada,A,2687000.0,3118000.0,2.54,0.406,7.96,0.072,2.26,1983,True
+BORR-000375,Enterprise Corp 375,Materials,Asia-Pacific,Australia,BBB,31131000.0,34405000.0,3.25,0.596,6.03,0.09,1.34,1963,True
+BORR-000376,Enterprise Corp 376,Technology,Latin America,Mexico,A,7971000.0,7473000.0,1.8,0.41,9.42,0.163,1.94,2011,True
+BORR-000377,Enterprise Corp 377,Telecommunications,North America,Canada,BB,14799000.0,25400000.0,3.28,0.407,5.86,0.032,1.52,2002,True
+BORR-000378,Enterprise Corp 378,Telecommunications,North America,Canada,BBB,3100000.0,4425000.0,2.65,0.49,5.22,0.117,1.62,1993,True
+BORR-000379,Enterprise Corp 379,Financials,Europe,Switzerland,A,16968000.0,14114000.0,2.62,0.392,6.56,0.162,2.65,1996,True
+BORR-000380,Enterprise Corp 380,Energy,Europe,Germany,BB,44560000.0,58418000.0,3.41,0.553,5.59,0.077,1.61,1960,True
+BORR-000381,Enterprise Corp 381,Technology,Europe,Switzerland,BB,5563000.0,4928000.0,3.57,0.565,4.79,0.092,1.65,1988,True
+BORR-000382,Enterprise Corp 382,Utilities,Europe,Netherlands,A,7070000.0,9712000.0,2.84,0.388,7.77,0.178,2.02,1971,True
+BORR-000383,Enterprise Corp 383,Utilities,Latin America,Chile,A,25281000.0,33092000.0,2.73,0.387,9.09,0.183,2.16,1999,True
+BORR-000384,Enterprise Corp 384,Energy,Europe,Switzerland,AAA,26050000.0,22998000.0,1.02,0.267,11.51,0.173,2.36,2016,True
+BORR-000385,Enterprise Corp 385,Technology,North America,Canada,AA,789000.0,1275000.0,1.37,0.277,10.8,0.134,2.39,1992,True
+BORR-000386,Enterprise Corp 386,Healthcare,North America,United States,BB,164511000.0,174763000.0,4.07,0.493,2.68,0.047,1.32,1996,True
+BORR-000387,Enterprise Corp 387,Technology,North America,Canada,CCC,27626000.0,37060000.0,5.09,0.891,2.5,0.054,0.96,2000,True
+BORR-000388,Enterprise Corp 388,Materials,North America,Canada,AA,33811000.0,48655000.0,0.9,0.267,10.03,0.109,1.67,2016,True
+BORR-000389,Enterprise Corp 389,Materials,North America,United States,BB,12333000.0,21735000.0,3.34,0.556,3.17,0.067,1.26,1962,True
+BORR-000390,Enterprise Corp 390,Healthcare,Europe,Netherlands,AA,1581000.0,2046000.0,1.78,0.22,8.41,0.153,2.88,1978,True
+BORR-000391,Enterprise Corp 391,Telecommunications,North America,United States,BBB,32922000.0,56537000.0,3.29,0.477,5.39,0.085,2.13,1976,True
+BORR-000392,Enterprise Corp 392,Healthcare,Middle East,Saudi Arabia,BB,7435000.0,8586000.0,3.96,0.494,5.03,0.083,2.0,2003,True
+BORR-000393,Enterprise Corp 393,Financials,North America,Canada,BBB,28140000.0,46640000.0,3.04,0.443,8.35,0.177,2.3,1987,True
+BORR-000394,Enterprise Corp 394,Industrials,North America,United States,AAA,11268000.0,11672000.0,1.39,0.293,13.03,0.171,2.92,2007,True
+BORR-000395,Enterprise Corp 395,Telecommunications,Asia-Pacific,Singapore,BBB,19495000.0,29388000.0,2.93,0.498,5.42,0.087,1.74,1988,True
+BORR-000396,Enterprise Corp 396,Materials,Latin America,Chile,CCC,5781000.0,5137000.0,4.36,0.744,2.83,0.055,0.73,2019,True
+BORR-000397,Enterprise Corp 397,Technology,North America,United States,A,41337000.0,73830000.0,2.17,0.284,8.47,0.132,2.5,2006,True
+BORR-000398,Enterprise Corp 398,Healthcare,North America,Canada,A,3520000.0,6174000.0,2.31,0.5,8.27,0.168,2.18,1961,True
+BORR-000399,Enterprise Corp 399,Energy,North America,United States,A,216843000.0,269365000.0,2.28,0.318,8.28,0.13,2.91,2020,True
+BORR-000400,Enterprise Corp 400,Financials,Europe,Netherlands,BBB,214869000.0,284473000.0,1.96,0.562,6.76,0.093,1.77,2018,True
+BORR-000401,Enterprise Corp 401,Utilities,Europe,Switzerland,BBB,103931000.0,145272000.0,2.7,0.531,8.43,0.046,2.47,1962,True
+BORR-000402,Enterprise Corp 402,Telecommunications,North America,Canada,BB,67699000.0,72779000.0,3.53,0.585,6.32,0.026,1.55,1983,True
+BORR-000403,Enterprise Corp 403,Financials,North America,United States,BB,13237000.0,19518000.0,3.36,0.499,3.73,0.02,2.0,2019,True
+BORR-000404,Enterprise Corp 404,Utilities,Europe,Switzerland,B,59403000.0,89019000.0,3.98,0.639,4.55,0.061,1.83,2011,True
+BORR-000405,Enterprise Corp 405,Consumer Discretionary,Middle East,Saudi Arabia,BB,13054000.0,17298000.0,3.74,0.522,6.07,0.034,1.29,1988,True
+BORR-000406,Enterprise Corp 406,Industrials,Europe,Germany,A,2271000.0,2152000.0,1.76,0.392,8.18,0.163,2.01,1993,True
+BORR-000407,Enterprise Corp 407,Consumer Discretionary,Europe,Germany,BBB,88973000.0,152961000.0,2.09,0.455,7.76,0.101,1.57,1961,True
+BORR-000408,Enterprise Corp 408,Healthcare,North America,Canada,A,56774000.0,51951000.0,2.13,0.268,8.03,0.118,1.79,1994,True
+BORR-000409,Enterprise Corp 409,Utilities,North America,Canada,A,14110000.0,20166000.0,2.68,0.457,8.04,0.1,2.36,2000,True
+BORR-000410,Enterprise Corp 410,Technology,North America,United States,B,3368000.0,3042000.0,4.94,0.625,3.75,0.069,1.26,1981,True
+BORR-000411,Enterprise Corp 411,Healthcare,Asia-Pacific,Japan,BB,7250000.0,6859000.0,3.89,0.521,2.58,0.051,1.62,1978,True
+BORR-000412,Enterprise Corp 412,Energy,Asia-Pacific,South Korea,CCC,1647000.0,1351000.0,3.97,0.676,2.1,-0.005,1.21,2010,True
+BORR-000413,Enterprise Corp 413,Energy,Latin America,Brazil,BBB,45540000.0,52980000.0,2.78,0.492,5.6,0.136,1.32,1987,True
+BORR-000414,Enterprise Corp 414,Healthcare,Middle East,UAE,BBB,2139000.0,3079000.0,3.03,0.416,4.98,0.111,2.27,1976,True
+BORR-000415,Enterprise Corp 415,Technology,Middle East,Saudi Arabia,BBB,20670000.0,27316000.0,2.99,0.335,8.12,0.093,1.78,1982,True
+BORR-000416,Enterprise Corp 416,Real Estate,Middle East,Saudi Arabia,AA,5323000.0,7849000.0,1.97,0.334,9.81,0.169,2.6,1990,True
+BORR-000417,Enterprise Corp 417,Utilities,North America,Canada,A,2644000.0,3900000.0,1.84,0.421,7.76,0.125,2.35,1975,True
+BORR-000418,Enterprise Corp 418,Healthcare,North America,Canada,BBB,19502000.0,18335000.0,2.93,0.458,5.72,0.111,2.29,1994,True
+BORR-000419,Enterprise Corp 419,Energy,North America,United States,AA,9815000.0,8415000.0,1.91,0.241,9.56,0.125,2.41,2012,True
+BORR-000420,Enterprise Corp 420,Industrials,Europe,Germany,B,40058000.0,57097000.0,4.51,0.635,4.79,0.112,0.68,2005,True
+BORR-000421,Enterprise Corp 421,Utilities,North America,Canada,A,3201000.0,4652000.0,1.9,0.302,6.81,0.108,2.18,1974,True
+BORR-000422,Enterprise Corp 422,Real Estate,Asia-Pacific,South Korea,A,5904000.0,8010000.0,2.13,0.328,7.79,0.172,2.22,1988,True
+BORR-000423,Enterprise Corp 423,Telecommunications,Europe,Netherlands,BB,835000.0,873000.0,2.15,0.505,6.04,0.069,1.29,1993,True
+BORR-000424,Enterprise Corp 424,Industrials,Europe,Germany,AA,1065000.0,1715000.0,1.39,0.361,6.88,0.174,2.48,2001,True
+BORR-000425,Enterprise Corp 425,Consumer Discretionary,North America,Canada,B,126763000.0,111005000.0,3.84,0.608,3.53,0.072,1.21,2006,True
+BORR-000426,Enterprise Corp 426,Healthcare,North America,Canada,BB,178539000.0,255724000.0,2.99,0.523,4.48,0.109,1.2,1989,True
+BORR-000427,Enterprise Corp 427,Materials,North America,United States,AA,16375000.0,15072000.0,1.78,0.427,9.04,0.125,2.64,1979,True
+BORR-000428,Enterprise Corp 428,Materials,Asia-Pacific,South Korea,BB,5452000.0,7930000.0,3.47,0.571,4.4,0.107,1.43,2000,True
+BORR-000429,Enterprise Corp 429,Technology,Europe,Netherlands,BBB,10241000.0,12471000.0,1.77,0.49,6.57,0.155,1.76,1967,True
+BORR-000430,Enterprise Corp 430,Telecommunications,Asia-Pacific,Singapore,BB,41795000.0,63449000.0,3.61,0.528,7.31,0.067,1.46,2001,True
+BORR-000431,Enterprise Corp 431,Technology,North America,United States,BB,7903000.0,6735000.0,3.04,0.514,4.61,0.076,1.97,2014,True
+BORR-000432,Enterprise Corp 432,Telecommunications,North America,Canada,BB,19485000.0,26404000.0,3.74,0.419,5.35,0.059,1.59,2003,True
+BORR-000433,Enterprise Corp 433,Materials,Europe,Germany,BBB,14428000.0,13633000.0,2.26,0.528,8.79,0.09,1.9,1986,True
+BORR-000434,Enterprise Corp 434,Healthcare,Asia-Pacific,Singapore,A,7403000.0,10974000.0,2.32,0.417,7.14,0.176,2.03,2010,True
+BORR-000435,Enterprise Corp 435,Consumer Discretionary,Asia-Pacific,Japan,BB,7792000.0,7168000.0,3.36,0.539,7.18,0.045,1.74,1992,True
+BORR-000436,Enterprise Corp 436,Healthcare,North America,Canada,B,20832000.0,18198000.0,4.25,0.622,3.61,0.022,1.72,1992,True
+BORR-000437,Enterprise Corp 437,Industrials,Latin America,Brazil,BBB,4537000.0,6865000.0,2.96,0.514,8.54,0.148,2.07,2011,True
+BORR-000438,Enterprise Corp 438,Utilities,North America,Canada,BBB,25193000.0,21755000.0,2.77,0.377,7.3,0.119,2.09,1971,True
+BORR-000439,Enterprise Corp 439,Technology,Latin America,Chile,BBB,8319000.0,8523000.0,2.13,0.435,6.77,0.164,2.06,2007,True
+BORR-000440,Enterprise Corp 440,Financials,North America,Canada,BB,17070000.0,27734000.0,2.76,0.482,4.92,0.061,1.19,2001,True
+BORR-000441,Enterprise Corp 441,Utilities,North America,Canada,CCC,77111000.0,124125000.0,4.41,0.816,1.45,0.029,0.78,1992,True
+BORR-000442,Enterprise Corp 442,Financials,Asia-Pacific,Japan,A,11973000.0,19805000.0,2.3,0.443,7.89,0.105,2.1,1964,True
+BORR-000443,Enterprise Corp 443,Healthcare,North America,United States,A,44179000.0,49750000.0,2.0,0.258,8.88,0.129,1.94,2006,True
+BORR-000444,Enterprise Corp 444,Consumer Discretionary,Europe,Germany,BBB,1706000.0,2266000.0,3.21,0.379,6.38,0.047,1.56,1973,True
+BORR-000445,Enterprise Corp 445,Industrials,Europe,Switzerland,BBB,8332000.0,13109000.0,2.76,0.462,6.02,0.121,1.32,2014,True
+BORR-000446,Enterprise Corp 446,Real Estate,North America,Canada,BBB,15146000.0,14192000.0,2.42,0.442,6.1,0.11,1.48,2008,True
+BORR-000447,Enterprise Corp 447,Financials,Asia-Pacific,Singapore,AA,147302000.0,224546000.0,1.56,0.231,10.39,0.148,2.36,1982,True
+BORR-000448,Enterprise Corp 448,Utilities,Asia-Pacific,Australia,BBB,1395000.0,1252000.0,3.01,0.587,7.87,0.088,1.86,1986,True
+BORR-000449,Enterprise Corp 449,Industrials,Asia-Pacific,Australia,BBB,13053000.0,22363000.0,3.06,0.489,5.6,0.073,1.64,1961,True
+BORR-000450,Enterprise Corp 450,Energy,North America,United States,BBB,84143000.0,120940000.0,3.84,0.498,5.6,0.122,1.9,1990,True
+BORR-000451,Enterprise Corp 451,Utilities,Europe,France,BBB,5711000.0,7386000.0,2.57,0.428,6.86,0.065,1.75,1963,True
+BORR-000452,Enterprise Corp 452,Utilities,North America,United States,BB,11348000.0,14579000.0,3.46,0.593,6.83,0.09,1.93,2020,True
+BORR-000453,Enterprise Corp 453,Consumer Discretionary,North America,United States,BBB,21815000.0,21408000.0,3.11,0.447,7.78,0.162,1.83,1999,True
+BORR-000454,Enterprise Corp 454,Technology,North America,United States,BB,18282000.0,20950000.0,3.49,0.533,3.5,0.12,1.81,1974,True
+BORR-000455,Enterprise Corp 455,Industrials,Latin America,Chile,BBB,95910000.0,146466000.0,2.65,0.507,6.08,0.055,1.94,2009,True
+BORR-000456,Enterprise Corp 456,Industrials,Latin America,Chile,BBB,25095000.0,33651000.0,2.13,0.372,5.28,0.084,1.46,1961,True
+BORR-000457,Enterprise Corp 457,Healthcare,Asia-Pacific,South Korea,BBB,72083000.0,95820000.0,2.64,0.566,6.08,0.113,1.85,1993,True
+BORR-000458,Enterprise Corp 458,Real Estate,Europe,United Kingdom,AA,9511000.0,9466000.0,1.16,0.321,11.13,0.148,2.07,1966,True
+BORR-000459,Enterprise Corp 459,Materials,Europe,Switzerland,A,6025000.0,8979000.0,1.44,0.467,6.09,0.083,2.13,1963,True
+BORR-000460,Enterprise Corp 460,Healthcare,Europe,Germany,BBB,11174000.0,13320000.0,2.5,0.405,4.46,0.112,1.66,1974,True
+BORR-000461,Enterprise Corp 461,Telecommunications,Europe,France,BB,3646000.0,3583000.0,2.98,0.495,4.01,0.075,1.71,1977,True
+BORR-000462,Enterprise Corp 462,Healthcare,Europe,Switzerland,BBB,26172000.0,45638000.0,3.19,0.4,6.74,0.157,1.48,2004,True
+BORR-000463,Enterprise Corp 463,Telecommunications,North America,Canada,AA,9221000.0,12050000.0,2.0,0.325,9.94,0.142,2.44,2014,True
+BORR-000464,Enterprise Corp 464,Consumer Discretionary,North America,United States,BBB,6543000.0,8689000.0,2.45,0.474,6.92,0.135,2.05,2007,True
+BORR-000465,Enterprise Corp 465,Technology,Middle East,Saudi Arabia,A,26652000.0,47477000.0,2.17,0.362,9.21,0.087,2.43,2005,True
+BORR-000466,Enterprise Corp 466,Utilities,Europe,Netherlands,BB,3714000.0,4332000.0,2.57,0.489,2.88,0.044,1.37,1994,True
+BORR-000467,Enterprise Corp 467,Healthcare,Middle East,Saudi Arabia,BB,36933000.0,64375000.0,3.25,0.474,6.43,0.097,1.61,1982,True
+BORR-000468,Enterprise Corp 468,Industrials,North America,United States,BBB,8252000.0,12336000.0,3.1,0.467,6.03,0.133,1.94,1975,True
+BORR-000469,Enterprise Corp 469,Healthcare,Europe,France,BBB,58874000.0,84372000.0,3.31,0.442,7.28,0.071,2.34,2017,True
+BORR-000470,Enterprise Corp 470,Utilities,North America,Canada,BBB,9145000.0,9460000.0,2.54,0.429,4.81,0.101,1.44,1991,True
+BORR-000471,Enterprise Corp 471,Telecommunications,North America,United States,BBB,31274000.0,26638000.0,3.43,0.563,6.41,0.059,1.61,1994,True
+BORR-000472,Enterprise Corp 472,Materials,North America,Canada,BB,18173000.0,22494000.0,2.74,0.545,5.28,0.07,2.44,1960,True
+BORR-000473,Enterprise Corp 473,Consumer Discretionary,North America,Canada,BB,35772000.0,28981000.0,2.88,0.626,6.39,0.1,1.52,1987,True
+BORR-000474,Enterprise Corp 474,Consumer Discretionary,Latin America,Chile,BBB,16717000.0,14561000.0,3.25,0.438,4.5,0.087,1.31,2001,True
+BORR-000475,Enterprise Corp 475,Real Estate,North America,United States,BBB,1991000.0,2778000.0,3.74,0.485,6.44,0.093,1.71,1990,True
+BORR-000476,Enterprise Corp 476,Telecommunications,Europe,Germany,AA,49158000.0,74940000.0,1.95,0.307,7.9,0.116,1.61,1997,True
+BORR-000477,Enterprise Corp 477,Materials,Europe,France,A,13188000.0,12765000.0,2.28,0.288,8.41,0.106,2.23,2009,True
+BORR-000478,Enterprise Corp 478,Technology,Europe,France,A,37785000.0,57906000.0,1.2,0.476,8.73,0.178,2.4,1961,True
+BORR-000479,Enterprise Corp 479,Real Estate,Europe,France,BBB,33542000.0,58689000.0,1.89,0.462,7.94,0.102,1.61,2015,True
+BORR-000480,Enterprise Corp 480,Healthcare,North America,Canada,B,5792000.0,8938000.0,4.16,0.675,2.96,0.02,1.18,2009,True
+BORR-000481,Enterprise Corp 481,Energy,Middle East,Qatar,BBB,4888000.0,7746000.0,2.72,0.425,7.51,0.091,2.16,1985,True
+BORR-000482,Enterprise Corp 482,Materials,Asia-Pacific,Japan,A,32166000.0,48272000.0,1.75,0.38,9.43,0.077,1.63,2006,True
+BORR-000483,Enterprise Corp 483,Energy,Asia-Pacific,South Korea,AA,10182000.0,10434000.0,1.73,0.258,7.23,0.12,2.04,1964,True
+BORR-000484,Enterprise Corp 484,Telecommunications,Europe,Germany,BBB,45069000.0,52320000.0,2.96,0.544,7.13,0.141,1.81,1978,True
+BORR-000485,Enterprise Corp 485,Consumer Discretionary,North America,United States,BB,11830000.0,20694000.0,3.97,0.569,6.15,0.071,1.37,1966,True
+BORR-000486,Enterprise Corp 486,Energy,Latin America,Brazil,BBB,50028000.0,73101000.0,2.97,0.492,6.09,0.157,1.79,1998,True
+BORR-000487,Enterprise Corp 487,Financials,North America,United States,BB,24348000.0,38690000.0,4.11,0.631,3.55,0.072,1.22,2012,True
+BORR-000488,Enterprise Corp 488,Industrials,North America,Canada,BB,20698000.0,36608000.0,3.5,0.619,6.13,0.074,1.66,1996,True
+BORR-000489,Enterprise Corp 489,Telecommunications,North America,United States,A,9353000.0,9647000.0,2.24,0.436,6.36,0.144,2.12,2003,True
+BORR-000490,Enterprise Corp 490,Real Estate,Asia-Pacific,Australia,BBB,19364000.0,21720000.0,3.43,0.385,6.19,0.02,2.04,1968,True
+BORR-000491,Enterprise Corp 491,Utilities,Europe,United Kingdom,B,61308000.0,88578000.0,3.61,0.588,3.55,0.056,1.38,2016,True
+BORR-000492,Enterprise Corp 492,Materials,Asia-Pacific,Australia,BBB,13728000.0,11317000.0,4.31,0.41,7.26,0.099,1.94,1971,True
+BORR-000493,Enterprise Corp 493,Telecommunications,Asia-Pacific,Singapore,AA,27713000.0,38001000.0,1.89,0.354,8.45,0.195,2.01,1992,True
+BORR-000494,Enterprise Corp 494,Real Estate,North America,Canada,B,15489000.0,24917000.0,4.29,0.64,2.78,0.079,1.47,2001,True
+BORR-000495,Enterprise Corp 495,Energy,Latin America,Chile,B,17014000.0,23997000.0,4.36,0.547,3.72,0.016,1.22,2012,True
+BORR-000496,Enterprise Corp 496,Consumer Discretionary,Europe,France,BBB,115883000.0,126937000.0,3.84,0.459,7.61,0.137,1.83,2016,True
+BORR-000497,Enterprise Corp 497,Healthcare,Europe,United Kingdom,BBB,61965000.0,94441000.0,3.3,0.38,9.14,0.092,2.19,1996,True
+BORR-000498,Enterprise Corp 498,Financials,North America,United States,A,16115000.0,15245000.0,1.5,0.387,5.99,0.098,1.94,1995,True
+BORR-000499,Enterprise Corp 499,Utilities,Middle East,UAE,BB,18951000.0,32118000.0,4.2,0.451,5.38,0.081,2.01,1985,True
+BORR-000500,Enterprise Corp 500,Consumer Discretionary,North America,United States,BBB,6311000.0,5686000.0,2.73,0.502,5.1,0.094,2.31,1994,True
+BORR-000501,Enterprise Corp 501,Healthcare,North America,United States,AA,11905000.0,19804000.0,1.75,0.333,10.42,0.196,2.67,2001,True
+BORR-000502,Enterprise Corp 502,Real Estate,Europe,Netherlands,BB,21237000.0,27562000.0,2.86,0.664,3.87,0.085,1.31,1999,True
+BORR-000503,Enterprise Corp 503,Utilities,North America,United States,B,40659000.0,49956000.0,4.36,0.681,2.79,0.056,0.66,1996,True
+BORR-000504,Enterprise Corp 504,Materials,North America,United States,BB,36001000.0,46825000.0,3.17,0.525,4.29,0.102,1.92,1986,True
+BORR-000505,Enterprise Corp 505,Energy,Europe,United Kingdom,A,3870000.0,3871000.0,2.35,0.439,7.71,0.158,2.19,1971,True
+BORR-000506,Enterprise Corp 506,Consumer Discretionary,North America,Canada,AA,47317000.0,59510000.0,1.56,0.226,9.59,0.174,2.22,1963,True
+BORR-000507,Enterprise Corp 507,Industrials,Latin America,Chile,B,13170000.0,21727000.0,5.06,0.572,4.18,0.093,1.67,1985,True
+BORR-000508,Enterprise Corp 508,Energy,North America,Canada,B,4482000.0,7175000.0,5.09,0.65,3.59,0.068,1.06,1984,True
+BORR-000509,Enterprise Corp 509,Energy,Asia-Pacific,Japan,BBB,72832000.0,70141000.0,2.92,0.341,4.8,0.105,1.75,1997,True
+BORR-000510,Enterprise Corp 510,Energy,Europe,Germany,BBB,84811000.0,124962000.0,2.93,0.468,7.27,0.137,2.04,2014,True
+BORR-000511,Enterprise Corp 511,Utilities,Europe,Switzerland,BBB,20105000.0,33311000.0,2.71,0.409,6.34,0.097,1.55,2002,True
+BORR-000512,Enterprise Corp 512,Telecommunications,Europe,France,BBB,34296000.0,55552000.0,3.45,0.476,7.79,0.101,1.85,2009,True
+BORR-000513,Enterprise Corp 513,Materials,Europe,United Kingdom,A,36797000.0,45100000.0,2.14,0.325,6.95,0.177,2.49,1995,True
+BORR-000514,Enterprise Corp 514,Materials,Middle East,UAE,AA,78211000.0,66330000.0,1.49,0.335,7.28,0.199,2.5,2016,True
+BORR-000515,Enterprise Corp 515,Utilities,North America,United States,A,35099000.0,60762000.0,2.79,0.391,7.76,0.125,2.53,2017,True
+BORR-000516,Enterprise Corp 516,Healthcare,North America,Canada,BB,2978000.0,3561000.0,3.23,0.634,6.56,0.061,1.94,1969,True
+BORR-000517,Enterprise Corp 517,Materials,Europe,United Kingdom,A,163409000.0,189714000.0,2.28,0.39,7.99,0.169,2.16,1998,True
+BORR-000518,Enterprise Corp 518,Technology,Asia-Pacific,South Korea,A,52630000.0,82077000.0,1.51,0.344,7.56,0.149,1.46,1990,True
+BORR-000519,Enterprise Corp 519,Consumer Discretionary,North America,Canada,BBB,7949000.0,8458000.0,3.25,0.455,5.36,0.109,1.55,2019,True
+BORR-000520,Enterprise Corp 520,Industrials,Europe,Switzerland,A,4259000.0,6962000.0,3.27,0.309,9.91,0.115,2.39,1995,True
+BORR-000521,Enterprise Corp 521,Financials,Latin America,Chile,A,26850000.0,23522000.0,2.66,0.414,6.56,0.135,1.69,1960,True
+BORR-000522,Enterprise Corp 522,Healthcare,Asia-Pacific,Singapore,BBB,10492000.0,16165000.0,3.63,0.505,5.53,0.099,1.78,1972,True
+BORR-000523,Enterprise Corp 523,Healthcare,Middle East,Qatar,BBB,21769000.0,38439000.0,2.48,0.618,7.08,0.08,1.98,1967,True
+BORR-000524,Enterprise Corp 524,Materials,Europe,United Kingdom,BBB,35751000.0,64201000.0,3.02,0.433,4.17,0.104,2.32,1972,True
+BORR-000525,Enterprise Corp 525,Financials,Europe,Germany,B,7424000.0,12798000.0,3.63,0.614,5.13,0.058,1.15,1965,True
+BORR-000526,Enterprise Corp 526,Financials,North America,United States,A,3839000.0,6414000.0,2.19,0.355,8.55,0.114,1.97,2007,True
+BORR-000527,Enterprise Corp 527,Utilities,Latin America,Brazil,B,23277000.0,25113000.0,4.49,0.643,4.68,0.077,1.3,1990,True
+BORR-000528,Enterprise Corp 528,Healthcare,North America,United States,B,7725000.0,13647000.0,4.15,0.653,4.27,0.089,1.43,2000,True
+BORR-000529,Enterprise Corp 529,Utilities,Asia-Pacific,Japan,BB,17458000.0,30166000.0,2.79,0.547,4.81,0.104,1.55,2020,True
+BORR-000530,Enterprise Corp 530,Utilities,Europe,United Kingdom,BBB,2923000.0,3900000.0,2.24,0.535,5.12,0.092,2.19,1999,True
+BORR-000531,Enterprise Corp 531,Industrials,Europe,Germany,BBB,10825000.0,13012000.0,2.21,0.433,6.23,0.123,1.64,1989,True
+BORR-000532,Enterprise Corp 532,Healthcare,Asia-Pacific,Japan,BBB,34551000.0,31416000.0,3.15,0.529,5.23,0.102,1.92,1976,True
+BORR-000533,Enterprise Corp 533,Healthcare,Europe,United Kingdom,BB,30314000.0,42156000.0,4.53,0.582,5.58,0.038,1.73,2006,True
+BORR-000534,Enterprise Corp 534,Energy,Latin America,Chile,AAA,5689000.0,8537000.0,1.78,0.229,11.57,0.195,2.6,1990,True
+BORR-000535,Enterprise Corp 535,Industrials,Europe,United Kingdom,B,3606000.0,4342000.0,3.15,0.611,5.37,0.054,1.57,2006,True
+BORR-000536,Enterprise Corp 536,Healthcare,Europe,United Kingdom,BBB,14930000.0,18006000.0,3.61,0.616,6.85,0.178,1.92,1961,True
+BORR-000537,Enterprise Corp 537,Consumer Discretionary,North America,United States,BB,28724000.0,39447000.0,3.97,0.501,6.11,0.119,1.84,1969,True
+BORR-000538,Enterprise Corp 538,Healthcare,Europe,United Kingdom,BBB,23824000.0,19721000.0,2.13,0.488,6.04,0.121,1.94,1967,True
+BORR-000539,Enterprise Corp 539,Industrials,Europe,France,AAA,7924000.0,13929000.0,0.95,0.185,10.03,0.182,2.83,2001,True
+BORR-000540,Enterprise Corp 540,Technology,North America,Canada,BBB,20945000.0,22828000.0,3.45,0.577,6.97,0.105,1.69,1991,True
+BORR-000541,Enterprise Corp 541,Telecommunications,North America,Canada,BBB,88883000.0,83629000.0,3.18,0.523,5.94,0.07,1.69,1979,True
+BORR-000542,Enterprise Corp 542,Technology,Europe,France,BBB,18740000.0,15095000.0,2.25,0.429,6.72,0.048,2.25,1978,True
+BORR-000543,Enterprise Corp 543,Healthcare,Europe,United Kingdom,BBB,2064000.0,3420000.0,3.21,0.501,5.13,0.074,2.07,1997,True
+BORR-000544,Enterprise Corp 544,Healthcare,Europe,Netherlands,A,18696000.0,31095000.0,1.23,0.405,6.74,0.124,1.85,2018,True
+BORR-000545,Enterprise Corp 545,Materials,North America,United States,BBB,170245000.0,152421000.0,2.79,0.439,7.16,0.037,1.93,2020,True
+BORR-000546,Enterprise Corp 546,Technology,North America,Canada,BBB,3126000.0,2977000.0,3.47,0.515,7.46,0.084,1.17,1988,True
+BORR-000547,Enterprise Corp 547,Consumer Discretionary,North America,United States,B,15183000.0,18947000.0,4.11,0.653,2.42,0.043,1.15,2000,True
+BORR-000548,Enterprise Corp 548,Industrials,Asia-Pacific,South Korea,A,11166000.0,11006000.0,2.05,0.403,8.6,0.119,2.45,1965,True
+BORR-000549,Enterprise Corp 549,Industrials,Asia-Pacific,Singapore,A,16437000.0,25244000.0,2.74,0.387,7.16,0.105,2.12,2017,True
+BORR-000550,Enterprise Corp 550,Real Estate,North America,Canada,A,18497000.0,15871000.0,2.79,0.416,7.82,0.115,2.2,1961,True
+BORR-000551,Enterprise Corp 551,Materials,Europe,France,BBB,57539000.0,77661000.0,3.56,0.484,8.1,0.152,0.98,1980,True
+BORR-000552,Enterprise Corp 552,Financials,North America,Canada,BBB,16220000.0,19185000.0,3.34,0.474,7.37,0.12,1.76,2004,True
+BORR-000553,Enterprise Corp 553,Materials,North America,Canada,BBB,67843000.0,85818000.0,3.44,0.432,7.36,0.083,1.98,2019,True
+BORR-000554,Enterprise Corp 554,Financials,North America,Canada,B,12722000.0,15581000.0,4.47,0.732,5.89,0.048,1.46,1970,True
+BORR-000555,Enterprise Corp 555,Utilities,North America,United States,A,9625000.0,9174000.0,2.43,0.327,6.96,0.124,2.45,2000,True
+BORR-000556,Enterprise Corp 556,Industrials,Europe,France,BB,6563000.0,6696000.0,3.54,0.576,3.82,0.052,1.54,1971,True
+BORR-000557,Enterprise Corp 557,Telecommunications,Latin America,Chile,AAA,1655000.0,1431000.0,0.98,0.211,9.73,0.152,2.67,1963,True
+BORR-000558,Enterprise Corp 558,Materials,North America,United States,A,20398000.0,18670000.0,1.69,0.496,7.49,0.155,1.76,1985,True
+BORR-000559,Enterprise Corp 559,Telecommunications,Europe,United Kingdom,BBB,172309000.0,306347000.0,2.42,0.416,3.57,0.087,1.82,1995,True
+BORR-000560,Enterprise Corp 560,Materials,Asia-Pacific,Singapore,AA,25390000.0,27416000.0,1.56,0.266,8.95,0.117,2.06,1976,True
+BORR-000561,Enterprise Corp 561,Industrials,Middle East,UAE,BBB,33401000.0,36976000.0,3.02,0.412,5.75,0.099,1.33,2019,True
+BORR-000562,Enterprise Corp 562,Technology,Europe,United Kingdom,BBB,8925000.0,8274000.0,3.62,0.489,7.34,0.104,1.55,1997,True
+BORR-000563,Enterprise Corp 563,Consumer Discretionary,North America,United States,BB,10928000.0,16995000.0,3.48,0.468,5.42,0.016,2.05,1986,True
+BORR-000564,Enterprise Corp 564,Healthcare,Europe,Netherlands,BBB,47754000.0,82335000.0,3.4,0.441,5.68,0.099,1.8,1989,True
+BORR-000565,Enterprise Corp 565,Materials,North America,Canada,BBB,163191000.0,259433000.0,3.44,0.341,7.11,0.126,1.95,1988,True
+BORR-000566,Enterprise Corp 566,Energy,Middle East,UAE,BBB,87359000.0,123405000.0,2.78,0.484,7.27,0.114,1.73,1966,True
+BORR-000567,Enterprise Corp 567,Energy,North America,United States,AA,38505000.0,62118000.0,2.0,0.28,8.28,0.217,1.9,1996,True
+BORR-000568,Enterprise Corp 568,Energy,Europe,United Kingdom,AA,15282000.0,18403000.0,1.58,0.221,8.61,0.188,2.72,2007,True
+BORR-000569,Enterprise Corp 569,Real Estate,North America,Canada,BBB,18843000.0,31270000.0,3.56,0.535,3.73,0.143,1.23,1985,True
+BORR-000570,Enterprise Corp 570,Industrials,Europe,Germany,CCC,5932000.0,9482000.0,5.02,0.632,0.89,0.109,0.87,1985,True
+BORR-000571,Enterprise Corp 571,Utilities,Asia-Pacific,South Korea,AAA,2577000.0,2066000.0,0.5,0.278,9.71,0.198,2.7,2015,True
+BORR-000572,Enterprise Corp 572,Consumer Discretionary,Europe,Switzerland,BBB,3790000.0,4881000.0,2.98,0.428,6.49,0.105,1.95,1997,True
+BORR-000573,Enterprise Corp 573,Energy,Europe,Netherlands,BB,15553000.0,16558000.0,4.32,0.646,3.87,0.104,1.38,1978,True
+BORR-000574,Enterprise Corp 574,Technology,Latin America,Brazil,BB,10320000.0,9146000.0,3.41,0.595,4.38,0.058,1.05,1960,True
+BORR-000575,Enterprise Corp 575,Technology,Asia-Pacific,South Korea,BBB,2512000.0,4135000.0,3.12,0.41,4.93,0.103,1.64,2010,True
+BORR-000576,Enterprise Corp 576,Financials,North America,Canada,BBB,14009000.0,11319000.0,3.17,0.415,6.61,0.081,1.66,1998,True
+BORR-000577,Enterprise Corp 577,Utilities,Europe,Netherlands,BB,9998000.0,15299000.0,2.98,0.586,5.51,0.087,1.37,1998,True
+BORR-000578,Enterprise Corp 578,Industrials,Europe,Switzerland,BB,3586000.0,6412000.0,3.76,0.534,5.48,0.055,1.89,1977,True
+BORR-000579,Enterprise Corp 579,Materials,Europe,Switzerland,A,9396000.0,12046000.0,1.6,0.38,7.81,0.104,1.8,1971,True
+BORR-000580,Enterprise Corp 580,Healthcare,North America,United States,B,9968000.0,11675000.0,3.79,0.706,1.75,0.062,1.41,1990,True
+BORR-000581,Enterprise Corp 581,Technology,North America,Canada,AAA,6990000.0,9827000.0,1.64,0.185,9.86,0.171,2.77,2006,True
+BORR-000582,Enterprise Corp 582,Materials,Latin America,Chile,BB,44545000.0,71481000.0,3.68,0.555,4.51,0.017,1.89,1978,True
+BORR-000583,Enterprise Corp 583,Healthcare,Latin America,Brazil,AA,1493000.0,1553000.0,1.55,0.367,8.72,0.106,2.4,1992,True
+BORR-000584,Enterprise Corp 584,Technology,Asia-Pacific,Singapore,A,1352000.0,1421000.0,2.52,0.439,7.89,0.091,2.4,2020,True
+BORR-000585,Enterprise Corp 585,Consumer Discretionary,Middle East,Qatar,AAA,14709000.0,20698000.0,1.07,0.22,12.31,0.149,2.67,1973,True
+BORR-000586,Enterprise Corp 586,Utilities,Asia-Pacific,Japan,BBB,16442000.0,28607000.0,2.91,0.453,7.37,0.112,2.01,1974,True
+BORR-000587,Enterprise Corp 587,Real Estate,Asia-Pacific,Singapore,BBB,23797000.0,26140000.0,3.23,0.366,5.21,0.107,1.43,1974,True
+BORR-000588,Enterprise Corp 588,Technology,Asia-Pacific,Australia,A,7673000.0,9029000.0,1.94,0.327,8.61,0.157,1.37,2015,True
+BORR-000589,Enterprise Corp 589,Materials,Europe,Netherlands,BBB,4869000.0,8732000.0,2.92,0.489,7.17,0.123,1.99,1992,True
+BORR-000590,Enterprise Corp 590,Materials,Europe,Switzerland,BBB,14523000.0,14178000.0,2.74,0.462,5.43,0.132,2.01,2015,True
+BORR-000591,Enterprise Corp 591,Materials,North America,United States,BB,8624000.0,7563000.0,2.71,0.554,6.02,0.093,1.74,2017,True
+BORR-000592,Enterprise Corp 592,Utilities,Europe,Germany,B,94233000.0,130961000.0,3.64,0.692,3.41,0.056,1.16,1985,True
+BORR-000593,Enterprise Corp 593,Energy,North America,Canada,BBB,9929000.0,8184000.0,3.68,0.399,4.71,0.133,2.33,1963,True
+BORR-000594,Enterprise Corp 594,Utilities,North America,Canada,A,13745000.0,13476000.0,2.49,0.376,8.35,0.153,2.02,1978,True
+BORR-000595,Enterprise Corp 595,Financials,Europe,Germany,A,285714000.0,406345000.0,1.64,0.401,8.06,0.136,2.29,1993,True
+BORR-000596,Enterprise Corp 596,Materials,Europe,Germany,B,11597000.0,16926000.0,3.33,0.588,3.33,0.088,1.5,1983,True
+BORR-000597,Enterprise Corp 597,Industrials,North America,United States,AA,28556000.0,37421000.0,1.64,0.396,9.16,0.08,2.96,1960,True
+BORR-000598,Enterprise Corp 598,Telecommunications,Asia-Pacific,Australia,BBB,31819000.0,37666000.0,3.68,0.525,5.54,0.091,1.78,2020,True
+BORR-000599,Enterprise Corp 599,Real Estate,Asia-Pacific,Singapore,B,35240000.0,48497000.0,4.01,0.647,4.33,0.041,1.12,1978,True
+BORR-000600,Enterprise Corp 600,Real Estate,North America,Canada,B,20736000.0,29930000.0,4.75,0.738,3.55,0.085,0.87,1997,True
+BORR-000601,Enterprise Corp 601,Real Estate,North America,United States,BBB,18488000.0,29645000.0,3.08,0.38,6.6,0.147,2.35,2017,True
+BORR-000602,Enterprise Corp 602,Telecommunications,North America,Canada,BBB,16525000.0,26320000.0,3.14,0.47,6.83,0.056,2.01,1993,True
+BORR-000603,Enterprise Corp 603,Telecommunications,Asia-Pacific,Japan,BBB,7340000.0,10752000.0,2.23,0.492,5.01,0.142,2.02,2002,True
+BORR-000604,Enterprise Corp 604,Healthcare,Asia-Pacific,Australia,BB,21652000.0,36684000.0,3.97,0.495,3.93,0.04,2.54,1962,True
+BORR-000605,Enterprise Corp 605,Materials,North America,Canada,AA,167145000.0,273788000.0,1.53,0.328,6.55,0.116,2.54,2002,True
+BORR-000606,Enterprise Corp 606,Industrials,Asia-Pacific,Japan,A,62634000.0,58453000.0,2.73,0.324,8.48,0.118,1.77,2011,True
+BORR-000607,Enterprise Corp 607,Financials,North America,United States,BBB,21098000.0,37062000.0,2.49,0.511,4.95,0.09,1.82,2016,True
+BORR-000608,Enterprise Corp 608,Industrials,North America,Canada,A,40915000.0,69218000.0,2.39,0.453,7.96,0.078,1.87,1965,True
+BORR-000609,Enterprise Corp 609,Utilities,Middle East,Saudi Arabia,BBB,5163000.0,5787000.0,3.08,0.486,6.85,0.119,1.76,1973,True
+BORR-000610,Enterprise Corp 610,Materials,North America,Canada,BBB,10717000.0,8790000.0,2.82,0.359,7.12,0.12,1.76,1962,True
+BORR-000611,Enterprise Corp 611,Materials,North America,Canada,B,45691000.0,64149000.0,4.3,0.572,2.16,0.082,1.14,2015,True
+BORR-000612,Enterprise Corp 612,Consumer Discretionary,Europe,Netherlands,BB,87277000.0,108085000.0,3.37,0.584,4.92,0.062,1.18,1976,True
+BORR-000613,Enterprise Corp 613,Telecommunications,Europe,Netherlands,BBB,5809000.0,9001000.0,2.58,0.471,8.4,0.099,2.36,1992,True
+BORR-000614,Enterprise Corp 614,Financials,Latin America,Brazil,BB,8200000.0,10862000.0,4.3,0.388,7.06,0.074,1.69,1989,True
+BORR-000615,Enterprise Corp 615,Real Estate,Middle East,Qatar,A,200766000.0,175969000.0,2.82,0.465,8.98,0.176,2.09,2002,True
+BORR-000616,Enterprise Corp 616,Real Estate,North America,United States,BBB,16445000.0,17180000.0,2.52,0.478,6.8,0.015,2.11,2014,True
+BORR-000617,Enterprise Corp 617,Energy,North America,United States,A,130650000.0,219822000.0,2.58,0.341,6.59,0.096,2.3,1979,True
+BORR-000618,Enterprise Corp 618,Energy,Asia-Pacific,Singapore,BB,18779000.0,15731000.0,3.13,0.61,5.86,0.075,1.68,2008,True
+BORR-000619,Enterprise Corp 619,Technology,North America,United States,BB,19686000.0,30251000.0,2.91,0.509,4.81,0.042,1.81,1977,True
+BORR-000620,Enterprise Corp 620,Healthcare,Latin America,Brazil,B,10154000.0,11088000.0,4.62,0.589,4.27,0.042,1.36,1972,True
+BORR-000621,Enterprise Corp 621,Consumer Discretionary,Europe,Switzerland,BB,45402000.0,56872000.0,2.65,0.572,4.24,0.071,1.8,1966,True
+BORR-000622,Enterprise Corp 622,Consumer Discretionary,North America,United States,B,74726000.0,99461000.0,4.56,0.737,3.39,0.03,1.55,1982,True
+BORR-000623,Enterprise Corp 623,Healthcare,Asia-Pacific,Singapore,A,4231000.0,4443000.0,2.17,0.487,8.0,0.127,2.21,1994,True
+BORR-000624,Enterprise Corp 624,Consumer Discretionary,North America,United States,B,9598000.0,13936000.0,3.99,0.652,3.9,0.069,1.25,2007,True
+BORR-000625,Enterprise Corp 625,Real Estate,Europe,Switzerland,BBB,43929000.0,65605000.0,3.1,0.498,6.99,0.093,2.34,2011,True
+BORR-000626,Enterprise Corp 626,Energy,Europe,Netherlands,BBB,12541000.0,11100000.0,3.19,0.517,5.7,0.086,1.74,1992,True
+BORR-000627,Enterprise Corp 627,Financials,Europe,Netherlands,BBB,8105000.0,9515000.0,2.49,0.395,4.79,0.095,2.0,1984,True
+BORR-000628,Enterprise Corp 628,Financials,Europe,Germany,BBB,49202000.0,75986000.0,3.26,0.509,8.35,0.1,2.0,1970,True
+BORR-000629,Enterprise Corp 629,Industrials,Europe,Switzerland,A,55072000.0,83800000.0,2.36,0.346,10.79,0.073,1.98,2015,True
+BORR-000630,Enterprise Corp 630,Financials,Middle East,Qatar,A,8541000.0,11484000.0,1.67,0.409,8.34,0.139,1.92,1984,True
+BORR-000631,Enterprise Corp 631,Telecommunications,Middle East,Saudi Arabia,AA,18903000.0,29823000.0,1.62,0.296,7.61,0.136,2.33,2006,True
+BORR-000632,Enterprise Corp 632,Financials,Europe,France,BBB,3436000.0,3119000.0,3.59,0.5,5.47,0.138,1.73,1998,True
+BORR-000633,Enterprise Corp 633,Consumer Discretionary,North America,United States,B,5002000.0,4593000.0,4.94,0.637,4.21,0.068,0.88,2016,True
+BORR-000634,Enterprise Corp 634,Financials,Asia-Pacific,South Korea,BBB,17005000.0,24785000.0,3.26,0.286,8.01,0.135,1.68,2019,True
+BORR-000635,Enterprise Corp 635,Healthcare,Middle East,Qatar,BBB,15213000.0,22718000.0,2.3,0.481,4.94,0.07,1.96,2003,True
+BORR-000636,Enterprise Corp 636,Real Estate,North America,United States,BBB,4592000.0,7414000.0,3.15,0.509,6.25,0.089,2.26,2000,True
+BORR-000637,Enterprise Corp 637,Energy,Europe,France,BBB,6205000.0,6087000.0,3.33,0.497,6.64,0.063,2.05,1968,True
+BORR-000638,Enterprise Corp 638,Energy,Europe,France,A,4081000.0,5374000.0,2.66,0.384,8.84,0.104,1.38,1960,True
+BORR-000639,Enterprise Corp 639,Telecommunications,North America,United States,BB,25294000.0,36950000.0,3.89,0.649,4.59,0.113,1.79,1993,True
+BORR-000640,Enterprise Corp 640,Utilities,Europe,Netherlands,A,1382000.0,1415000.0,2.48,0.409,5.92,0.17,1.99,2003,True
+BORR-000641,Enterprise Corp 641,Real Estate,North America,Canada,BB,4352000.0,5731000.0,3.46,0.576,5.75,0.041,1.74,2005,True
+BORR-000642,Enterprise Corp 642,Utilities,Asia-Pacific,South Korea,BB,1567000.0,2254000.0,3.2,0.613,6.35,0.061,1.6,1975,True
+BORR-000643,Enterprise Corp 643,Materials,Asia-Pacific,South Korea,BBB,24223000.0,24573000.0,1.95,0.492,6.3,0.098,1.82,1990,True
+BORR-000644,Enterprise Corp 644,Consumer Discretionary,Asia-Pacific,Singapore,BB,1684000.0,1980000.0,3.67,0.496,5.49,0.093,1.57,2012,True
+BORR-000645,Enterprise Corp 645,Telecommunications,Europe,Switzerland,A,15219000.0,15468000.0,2.39,0.244,7.23,0.072,2.15,1965,True
+BORR-000646,Enterprise Corp 646,Financials,North America,Canada,B,104786000.0,178445000.0,4.38,0.601,2.59,0.002,1.72,1983,True
+BORR-000647,Enterprise Corp 647,Consumer Discretionary,Asia-Pacific,Australia,BB,109138000.0,113154000.0,2.83,0.596,6.23,0.09,1.59,2017,True
+BORR-000648,Enterprise Corp 648,Industrials,Asia-Pacific,Australia,BB,1678000.0,1545000.0,3.82,0.529,5.46,0.017,1.93,1972,True
+BORR-000649,Enterprise Corp 649,Utilities,Europe,Switzerland,BBB,20959000.0,17504000.0,3.93,0.518,6.99,0.087,2.16,1979,True
+BORR-000650,Enterprise Corp 650,Materials,Latin America,Chile,BB,4471000.0,3778000.0,3.54,0.559,6.8,0.08,1.8,1988,True
+BORR-000651,Enterprise Corp 651,Consumer Discretionary,North America,United States,CCC,3500000.0,3471000.0,4.67,0.787,0.93,0.037,0.5,2001,True
+BORR-000652,Enterprise Corp 652,Real Estate,Asia-Pacific,Japan,BBB,12786000.0,18005000.0,3.05,0.452,5.74,0.096,2.21,1975,True
+BORR-000653,Enterprise Corp 653,Energy,North America,United States,BB,63972000.0,52307000.0,4.52,0.578,5.19,0.064,1.46,2008,True
+BORR-000654,Enterprise Corp 654,Materials,North America,Canada,BB,30087000.0,32697000.0,2.99,0.58,4.32,0.1,1.81,1974,True
+BORR-000655,Enterprise Corp 655,Industrials,Europe,Netherlands,BBB,6211000.0,5330000.0,3.0,0.56,7.34,0.109,1.59,1982,True
+BORR-000656,Enterprise Corp 656,Industrials,North America,United States,B,34142000.0,41095000.0,3.7,0.528,3.38,0.031,0.96,1994,True
+BORR-000657,Enterprise Corp 657,Telecommunications,North America,Canada,BBB,992000.0,842000.0,2.63,0.442,5.21,0.101,2.47,1960,True
+BORR-000658,Enterprise Corp 658,Real Estate,North America,Canada,BBB,5936000.0,8355000.0,2.88,0.521,6.48,0.111,1.59,2006,True
+BORR-000659,Enterprise Corp 659,Technology,Europe,Germany,AA,5451000.0,8113000.0,2.37,0.403,9.4,0.202,2.78,2000,True
+BORR-000660,Enterprise Corp 660,Energy,Asia-Pacific,Singapore,A,16094000.0,24645000.0,3.2,0.404,8.92,0.149,2.2,2010,True
+BORR-000661,Enterprise Corp 661,Healthcare,North America,Canada,BB,11486000.0,11766000.0,3.72,0.532,5.47,0.111,1.47,1976,True
+BORR-000662,Enterprise Corp 662,Telecommunications,Europe,France,BBB,12363000.0,20628000.0,2.71,0.515,6.95,0.082,1.87,1984,True
+BORR-000663,Enterprise Corp 663,Technology,Asia-Pacific,South Korea,BBB,11880000.0,17705000.0,4.15,0.522,6.78,0.084,1.49,2014,True
+BORR-000664,Enterprise Corp 664,Energy,North America,Canada,A,15050000.0,12893000.0,2.09,0.368,7.57,0.118,2.16,1964,True
+BORR-000665,Enterprise Corp 665,Industrials,North America,Canada,BBB,28012000.0,34756000.0,2.61,0.49,5.54,0.096,1.56,1989,True
+BORR-000666,Enterprise Corp 666,Real Estate,Asia-Pacific,Singapore,BB,17526000.0,27477000.0,2.61,0.621,5.35,0.045,1.48,1989,True
+BORR-000667,Enterprise Corp 667,Industrials,Asia-Pacific,Australia,B,10415000.0,11570000.0,4.8,0.743,3.2,0.088,1.6,1987,True
+BORR-000668,Enterprise Corp 668,Materials,Europe,United Kingdom,AA,23726000.0,28034000.0,2.18,0.355,11.23,0.177,2.52,1986,True
+BORR-000669,Enterprise Corp 669,Utilities,Asia-Pacific,Singapore,BBB,39482000.0,56444000.0,4.11,0.473,8.01,0.091,1.44,2005,True
+BORR-000670,Enterprise Corp 670,Healthcare,North America,United States,BBB,7518000.0,6432000.0,2.21,0.467,7.16,0.119,2.14,1972,True
+BORR-000671,Enterprise Corp 671,Utilities,North America,United States,BBB,13643000.0,24106000.0,3.63,0.503,6.85,0.107,1.88,2014,True
+BORR-000672,Enterprise Corp 672,Real Estate,Asia-Pacific,Japan,BBB,59073000.0,57566000.0,2.94,0.463,6.29,0.122,1.72,2014,True
+BORR-000673,Enterprise Corp 673,Real Estate,North America,Canada,BBB,3901000.0,3225000.0,3.3,0.481,4.89,0.06,2.1,1970,True
+BORR-000674,Enterprise Corp 674,Technology,Asia-Pacific,Japan,BBB,127757000.0,102886000.0,2.08,0.407,6.14,0.096,1.83,2019,True
+BORR-000675,Enterprise Corp 675,Real Estate,Europe,Netherlands,BBB,2937000.0,3523000.0,3.63,0.548,6.52,0.098,1.53,1975,True
+BORR-000676,Enterprise Corp 676,Telecommunications,Asia-Pacific,Singapore,BBB,9680000.0,16304000.0,3.29,0.402,6.68,0.119,2.43,1963,True
+BORR-000677,Enterprise Corp 677,Industrials,Europe,Germany,BBB,4685000.0,7589000.0,2.88,0.444,6.96,0.081,1.87,1984,True
+BORR-000678,Enterprise Corp 678,Technology,North America,Canada,BB,202351000.0,346434000.0,3.82,0.556,6.11,0.0,1.58,2008,True
+BORR-000679,Enterprise Corp 679,Industrials,North America,Canada,BB,8008000.0,10681000.0,3.12,0.669,4.17,0.043,1.48,2011,True
+BORR-000680,Enterprise Corp 680,Utilities,North America,Canada,BBB,8032000.0,10030000.0,2.61,0.445,5.58,0.098,2.23,1999,True
+BORR-000681,Enterprise Corp 681,Telecommunications,Asia-Pacific,Australia,BB,9389000.0,11134000.0,3.27,0.51,6.74,0.077,1.44,2009,True
+BORR-000682,Enterprise Corp 682,Healthcare,North America,United States,BB,16432000.0,13908000.0,2.57,0.517,5.93,0.126,1.14,1975,True
+BORR-000683,Enterprise Corp 683,Utilities,North America,United States,A,9878000.0,16887000.0,2.73,0.49,7.33,0.142,1.96,2013,True
+BORR-000684,Enterprise Corp 684,Utilities,North America,Canada,BBB,12491000.0,16191000.0,3.5,0.301,6.27,0.102,2.28,1998,True
+BORR-000685,Enterprise Corp 685,Healthcare,North America,Canada,A,212000.0,266000.0,1.95,0.33,7.68,0.124,2.41,1968,True
+BORR-000686,Enterprise Corp 686,Materials,Asia-Pacific,Japan,BB,15691000.0,20636000.0,3.67,0.714,5.04,0.108,1.52,1967,True
+BORR-000687,Enterprise Corp 687,Consumer Discretionary,North America,United States,A,14967000.0,23860000.0,2.17,0.425,8.37,0.107,2.57,1976,True
+BORR-000688,Enterprise Corp 688,Industrials,Middle East,Qatar,BBB,50946000.0,52193000.0,3.06,0.404,9.44,0.096,2.1,1964,True
+BORR-000689,Enterprise Corp 689,Consumer Discretionary,North America,Canada,A,70482000.0,106421000.0,1.99,0.387,8.03,0.092,2.08,1977,True
+BORR-000690,Enterprise Corp 690,Telecommunications,Europe,United Kingdom,BBB,11696000.0,17670000.0,2.46,0.474,7.2,0.143,1.83,2020,True
+BORR-000691,Enterprise Corp 691,Utilities,Europe,France,B,39016000.0,64359000.0,4.63,0.681,1.58,0.062,1.42,1974,True
+BORR-000692,Enterprise Corp 692,Telecommunications,North America,Canada,BBB,3906000.0,3159000.0,2.87,0.58,5.82,0.079,1.63,1998,True
+BORR-000693,Enterprise Corp 693,Utilities,Asia-Pacific,Japan,BB,36793000.0,35704000.0,4.51,0.573,6.47,0.072,1.6,2019,True
+BORR-000694,Enterprise Corp 694,Utilities,Middle East,UAE,CCC,7371000.0,9369000.0,4.72,0.678,2.68,0.04,1.13,1975,True
+BORR-000695,Enterprise Corp 695,Technology,Asia-Pacific,Singapore,BB,3535000.0,5835000.0,3.04,0.597,0.2,0.067,1.09,2002,True
+BORR-000696,Enterprise Corp 696,Energy,North America,Canada,A,11726000.0,20698000.0,2.91,0.348,8.61,0.109,2.1,1987,True
+BORR-000697,Enterprise Corp 697,Telecommunications,North America,United States,BB,78654000.0,109712000.0,3.82,0.488,7.3,0.055,1.51,1977,True
+BORR-000698,Enterprise Corp 698,Industrials,Europe,France,AA,18205000.0,18426000.0,2.06,0.204,6.8,0.16,2.75,2017,True
+BORR-000699,Enterprise Corp 699,Technology,North America,United States,BBB,88259000.0,86898000.0,3.5,0.376,8.22,0.089,1.33,2000,True
+BORR-000700,Enterprise Corp 700,Technology,Asia-Pacific,South Korea,BB,5966000.0,8588000.0,3.17,0.496,1.67,0.061,1.49,1986,True
+BORR-000701,Enterprise Corp 701,Industrials,Europe,United Kingdom,BB,51517000.0,52036000.0,3.44,0.479,6.13,0.035,1.46,2009,True
+BORR-000702,Enterprise Corp 702,Real Estate,Europe,Germany,BBB,6699000.0,9064000.0,2.81,0.489,6.39,0.102,2.17,2014,True
+BORR-000703,Enterprise Corp 703,Healthcare,Asia-Pacific,Japan,BBB,19199000.0,31387000.0,2.25,0.398,3.58,0.095,1.87,2007,True
+BORR-000704,Enterprise Corp 704,Healthcare,Asia-Pacific,South Korea,BB,19001000.0,22608000.0,3.37,0.361,5.54,0.065,2.14,2012,True
+BORR-000705,Enterprise Corp 705,Healthcare,North America,Canada,BB,32404000.0,38187000.0,4.17,0.487,6.38,0.081,1.8,1979,True
+BORR-000706,Enterprise Corp 706,Industrials,North America,Canada,BBB,19794000.0,16551000.0,3.02,0.442,6.84,0.122,1.76,1980,True
+BORR-000707,Enterprise Corp 707,Technology,Europe,United Kingdom,B,6034000.0,6360000.0,3.43,0.594,4.3,0.071,1.39,1974,True
+BORR-000708,Enterprise Corp 708,Industrials,Europe,Netherlands,A,42134000.0,63125000.0,1.52,0.481,7.31,0.142,2.05,2002,True
+BORR-000709,Enterprise Corp 709,Consumer Discretionary,North America,United States,A,117036000.0,135808000.0,3.13,0.353,5.57,0.118,2.42,2008,True
+BORR-000710,Enterprise Corp 710,Consumer Discretionary,Europe,Switzerland,BBB,7271000.0,6968000.0,2.85,0.523,7.23,0.083,1.48,2000,True
+BORR-000711,Enterprise Corp 711,Real Estate,Asia-Pacific,Singapore,CCC,1620000.0,1467000.0,4.38,0.709,4.3,-0.006,0.79,1996,True
+BORR-000712,Enterprise Corp 712,Industrials,Asia-Pacific,South Korea,A,26674000.0,23875000.0,2.16,0.387,9.16,0.107,2.3,2007,True
+BORR-000713,Enterprise Corp 713,Telecommunications,Europe,Switzerland,A,9846000.0,14367000.0,1.56,0.34,5.41,0.126,2.53,1971,True
+BORR-000714,Enterprise Corp 714,Telecommunications,North America,United States,A,12518000.0,17683000.0,3.01,0.386,5.98,0.101,1.5,1982,True
+BORR-000715,Enterprise Corp 715,Utilities,North America,Canada,BB,28557000.0,37653000.0,3.3,0.504,3.98,0.078,2.01,2003,True
+BORR-000716,Enterprise Corp 716,Telecommunications,Europe,Germany,A,8472000.0,11016000.0,2.98,0.4,5.89,0.096,2.12,1963,True
+BORR-000717,Enterprise Corp 717,Industrials,North America,United States,BBB,10611000.0,10114000.0,2.93,0.456,6.45,0.05,1.31,2015,True
+BORR-000718,Enterprise Corp 718,Consumer Discretionary,Europe,Germany,CCC,12992000.0,16897000.0,5.41,0.653,2.67,0.05,0.4,1970,True
+BORR-000719,Enterprise Corp 719,Energy,Europe,Netherlands,AAA,85472000.0,73501000.0,1.23,0.29,8.88,0.161,2.26,2008,True
+BORR-000720,Enterprise Corp 720,Industrials,North America,United States,BBB,15189000.0,26214000.0,3.33,0.496,7.33,0.075,1.87,1997,True
+BORR-000721,Enterprise Corp 721,Healthcare,North America,Canada,BBB,3326000.0,2854000.0,3.26,0.443,7.12,0.067,1.86,2011,True
+BORR-000722,Enterprise Corp 722,Utilities,North America,Canada,BB,3488000.0,4268000.0,3.81,0.559,4.34,0.088,1.79,2007,True
+BORR-000723,Enterprise Corp 723,Materials,Latin America,Chile,BBB,17315000.0,13862000.0,3.07,0.465,6.19,0.141,1.72,1991,True
+BORR-000724,Enterprise Corp 724,Healthcare,Europe,Switzerland,BBB,3778000.0,5992000.0,2.78,0.418,4.06,0.088,1.55,2006,True
+BORR-000725,Enterprise Corp 725,Telecommunications,North America,United States,A,2247000.0,2171000.0,3.26,0.394,7.4,0.119,2.04,1981,True
+BORR-000726,Enterprise Corp 726,Healthcare,Latin America,Chile,BB,31410000.0,54180000.0,3.05,0.513,5.01,0.107,1.61,1995,True
+BORR-000727,Enterprise Corp 727,Telecommunications,Europe,United Kingdom,BB,33311000.0,28114000.0,3.5,0.493,5.2,0.021,1.67,2015,True
+BORR-000728,Enterprise Corp 728,Technology,Europe,France,A,9419000.0,15266000.0,2.31,0.293,8.25,0.184,1.92,1965,True
+BORR-000729,Enterprise Corp 729,Consumer Discretionary,Latin America,Mexico,BBB,20840000.0,30356000.0,3.1,0.448,6.69,0.173,2.15,1981,True
+BORR-000730,Enterprise Corp 730,Real Estate,North America,Canada,B,18361000.0,19274000.0,3.89,0.664,3.28,-0.031,1.13,1961,True
+BORR-000731,Enterprise Corp 731,Telecommunications,North America,Canada,AAA,30186000.0,30259000.0,1.26,0.188,10.94,0.172,2.46,1992,True
+BORR-000732,Enterprise Corp 732,Consumer Discretionary,Europe,Switzerland,A,30271000.0,35044000.0,2.22,0.541,9.0,0.103,2.0,2007,True
+BORR-000733,Enterprise Corp 733,Utilities,North America,United States,BBB,642000.0,1045000.0,2.11,0.523,6.29,0.092,2.2,1962,True
+BORR-000734,Enterprise Corp 734,Telecommunications,Europe,Switzerland,BBB,10978000.0,18245000.0,2.9,0.548,6.78,0.087,1.84,1993,True
+BORR-000735,Enterprise Corp 735,Energy,North America,United States,A,27275000.0,26601000.0,1.75,0.438,7.58,0.149,1.95,1985,True
+BORR-000736,Enterprise Corp 736,Real Estate,North America,United States,BBB,8953000.0,10327000.0,2.03,0.581,5.62,0.097,2.16,2007,True
+BORR-000737,Enterprise Corp 737,Telecommunications,North America,United States,A,15301000.0,15875000.0,2.37,0.343,8.43,0.098,2.8,1973,True
+BORR-000738,Enterprise Corp 738,Financials,Europe,France,BBB,36065000.0,33275000.0,3.14,0.316,5.73,0.095,1.94,1969,True
+BORR-000739,Enterprise Corp 739,Telecommunications,North America,Canada,BB,16145000.0,23353000.0,3.76,0.523,5.46,0.09,1.97,1965,True
+BORR-000740,Enterprise Corp 740,Materials,North America,Canada,BBB,89478000.0,102530000.0,3.18,0.503,6.43,0.064,2.19,1984,True
+BORR-000741,Enterprise Corp 741,Materials,Asia-Pacific,Japan,AA,56649000.0,58087000.0,0.73,0.319,8.84,0.101,2.26,1989,True
+BORR-000742,Enterprise Corp 742,Telecommunications,North America,United States,BB,12708000.0,21171000.0,2.82,0.567,4.61,0.135,1.61,2016,True
+BORR-000743,Enterprise Corp 743,Real Estate,North America,Canada,A,11552000.0,17886000.0,3.29,0.469,7.19,0.106,1.78,1988,True
+BORR-000744,Enterprise Corp 744,Energy,North America,United States,BB,479000.0,754000.0,2.98,0.573,3.03,0.071,1.54,1970,True
+BORR-000745,Enterprise Corp 745,Telecommunications,North America,United States,BBB,9902000.0,8310000.0,3.21,0.518,6.86,0.088,1.69,2002,True
+BORR-000746,Enterprise Corp 746,Financials,North America,Canada,BB,2888000.0,4953000.0,3.16,0.494,5.28,0.091,1.48,1963,True
+BORR-000747,Enterprise Corp 747,Industrials,Europe,France,A,19105000.0,26264000.0,2.34,0.324,8.82,0.178,1.94,1981,True
+BORR-000748,Enterprise Corp 748,Financials,North America,Canada,A,17601000.0,22948000.0,1.98,0.487,7.16,0.142,2.07,1999,True
+BORR-000749,Enterprise Corp 749,Financials,Latin America,Chile,BBB,33768000.0,27372000.0,3.18,0.476,8.67,0.054,2.04,1975,True
+BORR-000750,Enterprise Corp 750,Healthcare,Latin America,Chile,AA,78296000.0,132920000.0,1.77,0.273,8.74,0.108,2.4,1996,True
+BORR-000751,Enterprise Corp 751,Utilities,North America,Canada,A,14196000.0,19078000.0,2.08,0.353,6.75,0.113,1.6,1987,True
+BORR-000752,Enterprise Corp 752,Healthcare,North America,Canada,BB,226103000.0,367452000.0,2.97,0.511,3.81,0.067,1.38,2018,True
+BORR-000753,Enterprise Corp 753,Technology,North America,Canada,BB,19364000.0,28185000.0,3.63,0.507,2.92,0.023,1.14,1977,True
+BORR-000754,Enterprise Corp 754,Utilities,Europe,Germany,AA,3041000.0,4856000.0,1.09,0.233,11.04,0.175,2.51,2015,True
+BORR-000755,Enterprise Corp 755,Industrials,North America,United States,B,7463000.0,11142000.0,4.31,0.54,5.25,0.017,1.47,1998,True
+BORR-000756,Enterprise Corp 756,Consumer Discretionary,Asia-Pacific,Singapore,BB,9367000.0,16120000.0,4.81,0.538,5.72,0.12,1.68,2005,True
+BORR-000757,Enterprise Corp 757,Telecommunications,Asia-Pacific,Australia,BB,29816000.0,30576000.0,4.18,0.514,3.92,0.13,1.36,1970,True
+BORR-000758,Enterprise Corp 758,Financials,Asia-Pacific,Australia,BB,4701000.0,4711000.0,3.86,0.616,7.17,0.068,1.67,1961,True
+BORR-000759,Enterprise Corp 759,Healthcare,Europe,United Kingdom,BBB,10246000.0,15498000.0,2.86,0.488,5.98,0.113,1.74,2004,True
+BORR-000760,Enterprise Corp 760,Telecommunications,Middle East,Saudi Arabia,BBB,12076000.0,15716000.0,1.93,0.486,6.08,0.063,1.54,1989,True
+BORR-000761,Enterprise Corp 761,Healthcare,North America,United States,BBB,8557000.0,11973000.0,2.24,0.425,8.12,0.119,2.1,1978,True
+BORR-000762,Enterprise Corp 762,Industrials,Europe,France,B,38791000.0,58518000.0,4.74,0.623,4.39,0.035,1.57,2014,True
+BORR-000763,Enterprise Corp 763,Utilities,North America,Canada,AA,31629000.0,42618000.0,1.31,0.332,11.84,0.117,2.72,1979,True
+BORR-000764,Enterprise Corp 764,Utilities,Latin America,Mexico,A,59405000.0,94317000.0,1.95,0.433,8.1,0.116,1.98,1986,True
+BORR-000765,Enterprise Corp 765,Financials,Europe,France,AA,9848000.0,11019000.0,1.62,0.304,8.72,0.136,2.79,2004,True
+BORR-000766,Enterprise Corp 766,Telecommunications,Asia-Pacific,Singapore,B,62024000.0,102897000.0,3.57,0.695,2.87,0.04,1.17,2018,True
+BORR-000767,Enterprise Corp 767,Real Estate,North America,Canada,BBB,2851000.0,2588000.0,2.29,0.47,4.18,0.128,2.08,2014,True
+BORR-000768,Enterprise Corp 768,Consumer Discretionary,Middle East,Qatar,BBB,2769000.0,3971000.0,2.87,0.518,6.07,0.076,1.73,1999,True
+BORR-000769,Enterprise Corp 769,Healthcare,Europe,Switzerland,BB,3414000.0,5770000.0,3.05,0.521,6.37,0.127,1.53,1966,True
+BORR-000770,Enterprise Corp 770,Financials,Europe,Germany,CCC,14814000.0,15595000.0,4.33,0.601,2.92,-0.015,0.4,1966,True
+BORR-000771,Enterprise Corp 771,Real Estate,Middle East,Saudi Arabia,A,62013000.0,69878000.0,1.91,0.406,7.82,0.173,2.07,2002,True
+BORR-000772,Enterprise Corp 772,Utilities,North America,United States,BB,7113000.0,7863000.0,3.76,0.594,3.81,0.045,1.63,1991,True
+BORR-000773,Enterprise Corp 773,Technology,North America,Canada,B,8269000.0,11281000.0,3.98,0.665,3.87,0.05,1.2,1968,True
+BORR-000774,Enterprise Corp 774,Telecommunications,Europe,United Kingdom,AA,11305000.0,13712000.0,1.61,0.335,10.42,0.135,2.97,2002,True
+BORR-000775,Enterprise Corp 775,Materials,North America,United States,BB,29133000.0,26452000.0,3.8,0.529,5.52,0.065,1.25,2017,True
+BORR-000776,Enterprise Corp 776,Utilities,North America,United States,BBB,8259000.0,13968000.0,2.83,0.422,6.6,0.124,1.71,1963,True
+BORR-000777,Enterprise Corp 777,Consumer Discretionary,North America,Canada,BBB,7724000.0,7760000.0,2.76,0.503,5.44,0.145,1.61,2010,True
+BORR-000778,Enterprise Corp 778,Healthcare,North America,Canada,BBB,2915000.0,3889000.0,3.14,0.496,7.44,0.136,1.71,1981,True
+BORR-000779,Enterprise Corp 779,Energy,Asia-Pacific,South Korea,A,7377000.0,10289000.0,2.63,0.356,4.04,0.113,2.47,1984,True
+BORR-000780,Enterprise Corp 780,Materials,Europe,France,A,60186000.0,50601000.0,2.23,0.457,8.26,0.131,2.6,2003,True
+BORR-000781,Enterprise Corp 781,Materials,North America,United States,A,16340000.0,14636000.0,2.34,0.337,10.88,0.102,1.95,1975,True
+BORR-000782,Enterprise Corp 782,Real Estate,Europe,Germany,AA,6029000.0,10682000.0,1.31,0.275,7.39,0.12,2.22,1969,True
+BORR-000783,Enterprise Corp 783,Healthcare,Europe,United Kingdom,BBB,64577000.0,94574000.0,2.47,0.568,6.11,0.066,1.53,2018,True
+BORR-000784,Enterprise Corp 784,Healthcare,Europe,Netherlands,BBB,7259000.0,6051000.0,3.28,0.522,6.39,0.087,2.27,1981,True
+BORR-000785,Enterprise Corp 785,Consumer Discretionary,Latin America,Chile,A,80514000.0,128355000.0,2.52,0.369,7.24,0.132,2.5,1970,True
+BORR-000786,Enterprise Corp 786,Industrials,Latin America,Mexico,BB,78950000.0,103309000.0,3.73,0.567,6.24,0.018,1.57,2002,True
+BORR-000787,Enterprise Corp 787,Technology,North America,United States,BB,15669000.0,13714000.0,3.64,0.559,5.57,0.074,1.18,1973,True
+BORR-000788,Enterprise Corp 788,Real Estate,North America,United States,BBB,2426000.0,3592000.0,2.92,0.305,6.58,0.145,1.49,2007,True
+BORR-000789,Enterprise Corp 789,Industrials,Europe,Switzerland,B,228581000.0,297007000.0,4.45,0.576,4.56,0.084,1.37,1964,True
+BORR-000790,Enterprise Corp 790,Technology,Europe,Germany,BBB,23318000.0,23433000.0,3.37,0.467,6.42,0.082,2.04,1991,True
+BORR-000791,Enterprise Corp 791,Technology,Europe,United Kingdom,BB,9933000.0,16665000.0,3.96,0.529,8.82,0.033,0.98,1984,True
+BORR-000792,Enterprise Corp 792,Consumer Discretionary,Europe,United Kingdom,AA,46148000.0,50365000.0,1.65,0.325,9.38,0.164,2.34,2018,True
+BORR-000793,Enterprise Corp 793,Telecommunications,Europe,Germany,BB,34030000.0,36907000.0,4.19,0.618,5.23,0.005,2.09,1991,True
+BORR-000794,Enterprise Corp 794,Materials,North America,Canada,CCC,70641000.0,75782000.0,4.81,0.691,0.2,0.058,0.97,2016,True
+BORR-000795,Enterprise Corp 795,Consumer Discretionary,North America,Canada,BB,6617000.0,10372000.0,3.82,0.487,4.35,0.069,2.05,1975,True
+BORR-000796,Enterprise Corp 796,Energy,North America,United States,BBB,21470000.0,32336000.0,3.04,0.489,7.78,0.155,2.07,1988,True
+BORR-000797,Enterprise Corp 797,Utilities,North America,Canada,BBB,3531000.0,6014000.0,3.02,0.45,4.8,0.048,1.55,2009,True
+BORR-000798,Enterprise Corp 798,Consumer Discretionary,North America,United States,BBB,32593000.0,33549000.0,2.53,0.461,3.81,0.128,1.79,1969,True
+BORR-000799,Enterprise Corp 799,Financials,Asia-Pacific,Japan,BBB,14253000.0,22610000.0,3.25,0.452,6.44,0.097,1.84,2016,True
+BORR-000800,Enterprise Corp 800,Consumer Discretionary,North America,United States,BB,20526000.0,28183000.0,4.92,0.685,6.64,0.065,1.31,2007,True
+BORR-000801,Enterprise Corp 801,Technology,North America,Canada,CCC,12291000.0,13627000.0,4.51,0.576,2.25,-0.016,0.75,2001,True
+BORR-000802,Enterprise Corp 802,Financials,Europe,France,BBB,10841000.0,9057000.0,2.94,0.447,6.0,0.118,2.33,1974,True
+BORR-000803,Enterprise Corp 803,Industrials,Asia-Pacific,South Korea,AA,5169000.0,8368000.0,1.48,0.31,6.97,0.17,2.15,2009,True
+BORR-000804,Enterprise Corp 804,Utilities,North America,United States,BBB,37826000.0,39380000.0,2.66,0.423,6.94,0.154,2.2,2011,True
+BORR-000805,Enterprise Corp 805,Telecommunications,Asia-Pacific,Japan,A,87543000.0,125339000.0,3.07,0.444,8.59,0.155,2.03,1977,True
+BORR-000806,Enterprise Corp 806,Telecommunications,Latin America,Chile,A,7512000.0,10133000.0,1.96,0.439,5.66,0.107,2.15,1995,True
+BORR-000807,Enterprise Corp 807,Industrials,Europe,United Kingdom,A,28467000.0,22900000.0,2.06,0.387,9.16,0.095,2.33,1963,True
+BORR-000808,Enterprise Corp 808,Healthcare,Europe,United Kingdom,BB,24609000.0,44157000.0,2.71,0.534,5.92,0.034,1.42,1984,True
+BORR-000809,Enterprise Corp 809,Financials,North America,Canada,A,14794000.0,23882000.0,1.92,0.383,9.16,0.169,2.33,1969,True
+BORR-000810,Enterprise Corp 810,Utilities,Latin America,Mexico,A,2346000.0,3018000.0,1.45,0.384,8.5,0.102,1.55,1993,True
+BORR-000811,Enterprise Corp 811,Technology,North America,United States,AA,3073000.0,4549000.0,2.02,0.305,9.98,0.194,2.57,1993,True
+BORR-000812,Enterprise Corp 812,Materials,Latin America,Mexico,BB,5739000.0,7326000.0,4.9,0.539,5.62,0.091,0.86,1992,True
+BORR-000813,Enterprise Corp 813,Real Estate,Europe,Netherlands,BB,1125000.0,1738000.0,3.32,0.565,6.04,0.085,1.53,2001,True
+BORR-000814,Enterprise Corp 814,Energy,North America,United States,AA,79370000.0,74158000.0,0.87,0.355,7.02,0.141,2.7,2016,True
+BORR-000815,Enterprise Corp 815,Telecommunications,North America,United States,AAA,22777000.0,28388000.0,1.55,0.156,8.8,0.195,2.91,1972,True
+BORR-000816,Enterprise Corp 816,Materials,Europe,United Kingdom,BBB,14133000.0,16049000.0,2.54,0.407,5.52,0.1,1.49,1973,True
+BORR-000817,Enterprise Corp 817,Technology,Europe,France,A,1058000.0,1333000.0,2.95,0.285,7.64,0.114,1.81,1973,True
+BORR-000818,Enterprise Corp 818,Healthcare,North America,Canada,BBB,1642000.0,2053000.0,2.76,0.522,6.87,0.121,1.67,2016,True
+BORR-000819,Enterprise Corp 819,Real Estate,Asia-Pacific,Australia,BBB,14610000.0,13779000.0,2.58,0.485,6.79,0.096,1.94,1965,True
+BORR-000820,Enterprise Corp 820,Utilities,Asia-Pacific,South Korea,B,155879000.0,276917000.0,4.01,0.66,4.94,0.026,0.71,1961,True
+BORR-000821,Enterprise Corp 821,Technology,Europe,United Kingdom,A,6335000.0,5166000.0,2.68,0.304,9.18,0.143,2.16,1969,True
+BORR-000822,Enterprise Corp 822,Real Estate,Europe,United Kingdom,BBB,41308000.0,33462000.0,2.79,0.577,5.35,0.098,1.97,2006,True
+BORR-000823,Enterprise Corp 823,Healthcare,North America,Canada,AA,8237000.0,9666000.0,1.45,0.273,9.49,0.165,2.36,1995,True
+BORR-000824,Enterprise Corp 824,Real Estate,Asia-Pacific,Japan,B,15655000.0,22236000.0,4.0,0.64,2.58,0.036,1.48,2016,True
+BORR-000825,Enterprise Corp 825,Real Estate,North America,Canada,CCC,62935000.0,61654000.0,4.06,0.761,1.97,-0.011,1.11,1972,True
+BORR-000826,Enterprise Corp 826,Technology,Asia-Pacific,South Korea,BB,9673000.0,12896000.0,3.7,0.491,5.39,0.127,1.44,1984,True
+BORR-000827,Enterprise Corp 827,Real Estate,North America,United States,BBB,6400000.0,9746000.0,2.01,0.437,2.31,0.146,1.3,1993,True
+BORR-000828,Enterprise Corp 828,Materials,Europe,France,A,80332000.0,71822000.0,2.08,0.401,10.69,0.152,2.2,1964,True
+BORR-000829,Enterprise Corp 829,Materials,North America,Canada,BB,15474000.0,27612000.0,3.88,0.721,5.68,0.063,1.31,2016,True
+BORR-000830,Enterprise Corp 830,Technology,North America,United States,BB,54268000.0,61686000.0,3.65,0.568,4.29,0.066,1.43,2009,True
+BORR-000831,Enterprise Corp 831,Energy,Asia-Pacific,South Korea,A,6438000.0,9286000.0,2.6,0.486,10.11,0.166,2.3,1968,True
+BORR-000832,Enterprise Corp 832,Energy,Europe,Germany,BBB,79241000.0,72166000.0,2.87,0.542,5.98,0.089,2.31,2011,True
+BORR-000833,Enterprise Corp 833,Consumer Discretionary,Europe,Switzerland,BBB,20345000.0,30711000.0,3.48,0.492,6.56,0.081,1.87,1987,True
+BORR-000834,Enterprise Corp 834,Healthcare,Middle East,Saudi Arabia,BB,24686000.0,40496000.0,3.96,0.491,4.42,0.131,1.77,1980,True
+BORR-000835,Enterprise Corp 835,Materials,Middle East,UAE,BB,17158000.0,15533000.0,3.72,0.614,6.98,0.074,1.17,2017,True
+BORR-000836,Enterprise Corp 836,Telecommunications,Asia-Pacific,Australia,BBB,7988000.0,7396000.0,3.36,0.38,6.27,0.153,1.95,1991,True
+BORR-000837,Enterprise Corp 837,Materials,North America,United States,BBB,14621000.0,15806000.0,3.28,0.566,6.58,0.058,1.86,1973,True
+BORR-000838,Enterprise Corp 838,Healthcare,Europe,France,A,8614000.0,6994000.0,2.08,0.402,9.24,0.141,2.53,2009,True
+BORR-000839,Enterprise Corp 839,Technology,Asia-Pacific,South Korea,BBB,46337000.0,82760000.0,2.23,0.311,7.1,0.162,1.72,2003,True
+BORR-000840,Enterprise Corp 840,Utilities,North America,Canada,AA,11482000.0,16056000.0,1.91,0.29,9.13,0.151,2.37,1971,True
+BORR-000841,Enterprise Corp 841,Energy,North America,Canada,BB,2432000.0,3423000.0,3.77,0.589,6.33,0.067,1.92,2001,True
+BORR-000842,Enterprise Corp 842,Real Estate,Asia-Pacific,Singapore,BBB,1953000.0,3435000.0,3.45,0.456,9.45,0.065,1.85,1998,True
+BORR-000843,Enterprise Corp 843,Utilities,Europe,France,BBB,1845000.0,3011000.0,2.43,0.513,6.78,0.132,1.55,1976,True
+BORR-000844,Enterprise Corp 844,Technology,Europe,Germany,A,30755000.0,49646000.0,1.85,0.339,7.94,0.102,2.93,1986,True
+BORR-000845,Enterprise Corp 845,Technology,Middle East,Qatar,A,3679000.0,4192000.0,2.53,0.312,8.0,0.122,1.84,2011,True
+BORR-000846,Enterprise Corp 846,Technology,Europe,France,BBB,21001000.0,23833000.0,2.86,0.466,7.97,0.063,1.86,1970,True
+BORR-000847,Enterprise Corp 847,Healthcare,Europe,Netherlands,A,17260000.0,18843000.0,1.36,0.392,7.08,0.172,2.26,2004,True
+BORR-000848,Enterprise Corp 848,Technology,North America,United States,AA,13556000.0,15545000.0,1.89,0.289,8.87,0.185,2.52,2010,True
+BORR-000849,Enterprise Corp 849,Materials,Europe,Netherlands,BB,24793000.0,28996000.0,2.57,0.624,3.16,0.074,1.54,2017,True
+BORR-000850,Enterprise Corp 850,Real Estate,North America,United States,BBB,17716000.0,16653000.0,2.43,0.419,4.98,0.065,1.82,1979,True
+BORR-000851,Enterprise Corp 851,Utilities,Asia-Pacific,Australia,BBB,567000.0,655000.0,3.58,0.489,5.78,0.146,1.81,1976,True
+BORR-000852,Enterprise Corp 852,Materials,Asia-Pacific,Japan,BBB,9936000.0,12388000.0,3.81,0.474,6.33,0.089,1.55,2016,True
+BORR-000853,Enterprise Corp 853,Utilities,North America,United States,BB,24401000.0,27069000.0,2.89,0.457,7.12,0.042,2.25,1988,True
+BORR-000854,Enterprise Corp 854,Energy,North America,United States,A,104881000.0,101247000.0,2.14,0.311,8.44,0.072,2.09,1994,True
+BORR-000855,Enterprise Corp 855,Energy,Asia-Pacific,Singapore,BB,110857000.0,130081000.0,3.52,0.551,3.91,0.056,1.78,1991,True
+BORR-000856,Enterprise Corp 856,Materials,North America,Canada,B,2854000.0,3656000.0,4.99,0.749,2.73,0.006,1.22,1991,True
+BORR-000857,Enterprise Corp 857,Energy,Europe,Germany,BBB,9629000.0,14643000.0,2.65,0.505,8.05,0.081,1.77,1998,True
+BORR-000858,Enterprise Corp 858,Technology,Europe,United Kingdom,BBB,2237000.0,3381000.0,2.66,0.366,7.75,0.122,1.74,1985,True
+BORR-000859,Enterprise Corp 859,Real Estate,Europe,Germany,BB,90772000.0,91017000.0,4.27,0.363,5.03,0.064,1.14,1983,True
+BORR-000860,Enterprise Corp 860,Materials,North America,United States,BBB,49398000.0,41329000.0,2.71,0.514,5.87,0.111,1.83,1984,True
+BORR-000861,Enterprise Corp 861,Utilities,Europe,France,BBB,22314000.0,24630000.0,3.26,0.464,7.75,0.078,1.76,2000,True
+BORR-000862,Enterprise Corp 862,Utilities,North America,Canada,BBB,17882000.0,17116000.0,2.16,0.538,5.21,0.102,2.23,2009,True
+BORR-000863,Enterprise Corp 863,Healthcare,Europe,Germany,A,76803000.0,91840000.0,2.21,0.337,8.27,0.183,1.8,1993,True
+BORR-000864,Enterprise Corp 864,Telecommunications,North America,Canada,AA,62682000.0,111533000.0,0.87,0.331,11.93,0.14,2.27,2001,True
+BORR-000865,Enterprise Corp 865,Materials,Europe,Netherlands,BBB,58800000.0,57687000.0,2.37,0.521,6.65,0.112,1.61,1985,True
+BORR-000866,Enterprise Corp 866,Real Estate,Europe,Netherlands,A,25343000.0,28356000.0,2.72,0.363,6.87,0.078,2.59,2007,True
+BORR-000867,Enterprise Corp 867,Materials,North America,Canada,BBB,9635000.0,14694000.0,2.88,0.444,6.89,0.146,1.62,1984,True
+BORR-000868,Enterprise Corp 868,Materials,North America,Canada,BBB,36783000.0,48156000.0,2.74,0.472,5.84,0.086,2.05,1985,True
+BORR-000869,Enterprise Corp 869,Consumer Discretionary,North America,United States,B,39007000.0,32919000.0,3.73,0.663,1.93,0.082,1.61,1963,True
+BORR-000870,Enterprise Corp 870,Technology,North America,Canada,AA,11655000.0,11208000.0,1.59,0.309,10.04,0.146,2.4,1975,True
+BORR-000871,Enterprise Corp 871,Consumer Discretionary,North America,United States,BBB,9612000.0,16679000.0,3.05,0.528,7.74,0.118,1.47,2005,True
+BORR-000872,Enterprise Corp 872,Energy,Latin America,Brazil,BBB,57081000.0,51554000.0,3.39,0.442,6.03,0.12,1.47,1965,True
+BORR-000873,Enterprise Corp 873,Healthcare,Europe,Switzerland,AAA,107924000.0,154881000.0,0.3,0.15,10.15,0.161,2.98,1973,True
+BORR-000874,Enterprise Corp 874,Healthcare,Asia-Pacific,Singapore,A,5961000.0,9492000.0,1.88,0.509,6.65,0.158,1.78,2007,True
+BORR-000875,Enterprise Corp 875,Real Estate,Middle East,Saudi Arabia,A,10681000.0,11380000.0,2.38,0.354,7.62,0.102,2.28,2013,True
+BORR-000876,Enterprise Corp 876,Industrials,North America,Canada,A,22323000.0,34044000.0,2.25,0.356,7.13,0.148,2.19,1985,True
+BORR-000877,Enterprise Corp 877,Industrials,Europe,Netherlands,A,26269000.0,25478000.0,2.5,0.386,6.59,0.113,2.27,1984,True
+BORR-000878,Enterprise Corp 878,Telecommunications,Asia-Pacific,Japan,BBB,7828000.0,8491000.0,3.03,0.474,8.67,0.11,2.02,1991,True
+BORR-000879,Enterprise Corp 879,Industrials,Europe,United Kingdom,BBB,140431000.0,156134000.0,2.75,0.447,6.96,0.086,1.6,2006,True
+BORR-000880,Enterprise Corp 880,Real Estate,Europe,United Kingdom,AAA,24313000.0,43677000.0,0.84,0.229,11.29,0.176,2.43,1988,True
+BORR-000881,Enterprise Corp 881,Technology,Europe,Switzerland,A,27720000.0,28124000.0,2.18,0.388,8.86,0.093,2.37,1970,True
+BORR-000882,Enterprise Corp 882,Materials,North America,United States,AA,120923000.0,112363000.0,2.27,0.32,10.13,0.157,2.25,1986,True
+BORR-000883,Enterprise Corp 883,Consumer Discretionary,Europe,France,BBB,8547000.0,14749000.0,2.53,0.329,5.9,0.101,1.05,1975,True
+BORR-000884,Enterprise Corp 884,Healthcare,Middle East,Saudi Arabia,A,13176000.0,12674000.0,2.27,0.503,8.13,0.109,2.35,2001,True
+BORR-000885,Enterprise Corp 885,Materials,Middle East,UAE,BBB,3256000.0,5468000.0,2.99,0.461,6.08,0.098,1.57,1968,True
+BORR-000886,Enterprise Corp 886,Telecommunications,North America,United States,A,11913000.0,17279000.0,3.08,0.425,8.33,0.129,2.3,1997,True
+BORR-000887,Enterprise Corp 887,Technology,Asia-Pacific,Japan,AAA,2454000.0,3379000.0,0.95,0.147,11.01,0.157,3.14,1967,True
+BORR-000888,Enterprise Corp 888,Healthcare,North America,United States,B,35942000.0,55758000.0,4.58,0.602,3.14,0.046,1.33,2019,True
+BORR-000889,Enterprise Corp 889,Technology,Latin America,Brazil,AA,24252000.0,37009000.0,2.32,0.27,7.6,0.12,2.74,1999,True
+BORR-000890,Enterprise Corp 890,Energy,North America,Canada,A,10507000.0,9567000.0,2.27,0.478,7.98,0.195,2.21,1968,True
+BORR-000891,Enterprise Corp 891,Technology,Latin America,Mexico,A,12987000.0,23370000.0,2.19,0.355,7.55,0.157,2.64,2018,True
+BORR-000892,Enterprise Corp 892,Telecommunications,Asia-Pacific,South Korea,CCC,36534000.0,63638000.0,4.54,0.755,0.2,0.033,0.72,1994,True
+BORR-000893,Enterprise Corp 893,Industrials,North America,United States,BBB,3749000.0,6361000.0,2.77,0.431,7.01,0.135,1.88,1997,True
+BORR-000894,Enterprise Corp 894,Utilities,North America,United States,BBB,18718000.0,26622000.0,3.33,0.443,7.56,0.041,2.08,1963,True
+BORR-000895,Enterprise Corp 895,Telecommunications,Asia-Pacific,Australia,CCC,33916000.0,44864000.0,4.82,0.695,5.23,-0.052,0.98,1971,True
+BORR-000896,Enterprise Corp 896,Real Estate,North America,Canada,AA,1726000.0,2306000.0,1.82,0.387,8.73,0.138,2.79,2009,True
+BORR-000897,Enterprise Corp 897,Industrials,Europe,France,CCC,33329000.0,27161000.0,4.14,0.597,1.55,-0.016,0.91,1988,True
+BORR-000898,Enterprise Corp 898,Technology,Latin America,Brazil,A,1965000.0,2553000.0,1.82,0.311,6.47,0.118,2.78,1997,True
+BORR-000899,Enterprise Corp 899,Technology,Europe,Germany,BBB,12723000.0,18115000.0,3.97,0.353,6.65,0.106,2.52,2020,True
+BORR-000900,Enterprise Corp 900,Real Estate,North America,Canada,BBB,3627000.0,5291000.0,2.81,0.405,6.64,0.128,1.96,1986,True
+BORR-000901,Enterprise Corp 901,Technology,Europe,France,BBB,81613000.0,92397000.0,2.51,0.421,5.43,0.066,2.05,1983,True
+BORR-000902,Enterprise Corp 902,Technology,North America,Canada,B,3654000.0,4645000.0,4.82,0.533,3.39,0.062,1.68,2008,True
+BORR-000903,Enterprise Corp 903,Energy,Middle East,Saudi Arabia,A,2022000.0,2904000.0,2.44,0.346,5.43,0.125,1.8,1964,True
+BORR-000904,Enterprise Corp 904,Materials,North America,United States,CCC,17193000.0,21118000.0,4.99,0.589,3.31,0.035,0.65,1987,True
+BORR-000905,Enterprise Corp 905,Consumer Discretionary,North America,Canada,BBB,8918000.0,15715000.0,2.83,0.409,5.48,0.084,2.26,2012,True
+BORR-000906,Enterprise Corp 906,Telecommunications,North America,Canada,BBB,2408000.0,3625000.0,2.74,0.542,6.36,0.141,1.96,1973,True
+BORR-000907,Enterprise Corp 907,Consumer Discretionary,Middle East,Qatar,B,27535000.0,22063000.0,4.02,0.654,1.89,0.047,1.25,1978,True
+BORR-000908,Enterprise Corp 908,Healthcare,North America,Canada,AA,1343000.0,1106000.0,1.01,0.321,8.5,0.203,2.44,1988,True
+BORR-000909,Enterprise Corp 909,Financials,Asia-Pacific,Japan,B,4225000.0,6297000.0,4.06,0.57,3.26,0.026,0.6,1964,True
+BORR-000910,Enterprise Corp 910,Technology,Asia-Pacific,South Korea,BBB,7347000.0,8909000.0,3.05,0.378,6.39,0.122,1.82,1964,True
+BORR-000911,Enterprise Corp 911,Telecommunications,Asia-Pacific,Japan,BB,38365000.0,62898000.0,4.43,0.482,5.58,0.073,1.37,1975,True
+BORR-000912,Enterprise Corp 912,Healthcare,Middle East,Qatar,A,69342000.0,67471000.0,2.34,0.387,9.53,0.115,2.44,2014,True
+BORR-000913,Enterprise Corp 913,Financials,Asia-Pacific,Japan,BBB,55027000.0,44782000.0,1.73,0.522,7.28,0.119,2.18,1973,True
+BORR-000914,Enterprise Corp 914,Utilities,Latin America,Mexico,BBB,12189000.0,14482000.0,2.85,0.524,7.55,0.091,2.05,2004,True
+BORR-000915,Enterprise Corp 915,Industrials,North America,Canada,BBB,796000.0,1223000.0,4.27,0.508,8.14,0.02,2.0,1985,True
+BORR-000916,Enterprise Corp 916,Consumer Discretionary,Asia-Pacific,Japan,A,23418000.0,41490000.0,2.73,0.346,8.48,0.033,1.71,2006,True
+BORR-000917,Enterprise Corp 917,Industrials,Europe,United Kingdom,A,85557000.0,144048000.0,1.89,0.391,7.76,0.163,2.34,1980,True
+BORR-000918,Enterprise Corp 918,Telecommunications,Europe,Switzerland,BB,64395000.0,82688000.0,3.8,0.531,6.21,0.112,1.79,2013,True
+BORR-000919,Enterprise Corp 919,Energy,Latin America,Brazil,AA,25534000.0,41182000.0,1.33,0.298,10.49,0.207,2.81,1982,True
+BORR-000920,Enterprise Corp 920,Real Estate,Middle East,Saudi Arabia,BB,3515000.0,3059000.0,2.82,0.672,5.78,0.074,2.24,2008,True
+BORR-000921,Enterprise Corp 921,Materials,Asia-Pacific,South Korea,CCC,7800000.0,10704000.0,4.53,0.604,0.45,-0.014,0.53,2010,True
+BORR-000922,Enterprise Corp 922,Industrials,Europe,Netherlands,AAA,149167000.0,257208000.0,1.15,0.216,9.59,0.162,2.6,1986,True
+BORR-000923,Enterprise Corp 923,Consumer Discretionary,Europe,France,A,2676000.0,3202000.0,1.36,0.463,7.47,0.125,1.94,2000,True
+BORR-000924,Enterprise Corp 924,Healthcare,North America,United States,BBB,3695000.0,6504000.0,2.33,0.382,7.34,0.07,1.93,1967,True
+BORR-000925,Enterprise Corp 925,Energy,North America,Canada,AA,45402000.0,46341000.0,1.71,0.271,9.17,0.199,2.44,1990,True
+BORR-000926,Enterprise Corp 926,Utilities,North America,Canada,BBB,8733000.0,7909000.0,2.7,0.438,7.76,0.167,1.81,1982,True
+BORR-000927,Enterprise Corp 927,Industrials,North America,Canada,BB,3548000.0,4700000.0,3.7,0.537,6.58,0.089,1.91,2018,True
+BORR-000928,Enterprise Corp 928,Financials,North America,United States,BBB,91657000.0,156481000.0,2.29,0.374,7.84,0.1,1.55,2016,True
+BORR-000929,Enterprise Corp 929,Consumer Discretionary,Asia-Pacific,Australia,BBB,25477000.0,28312000.0,3.26,0.506,7.85,0.061,1.57,2007,True
+BORR-000930,Enterprise Corp 930,Industrials,Europe,Netherlands,BB,9266000.0,14827000.0,2.91,0.59,3.76,0.121,1.29,2017,True
+BORR-000931,Enterprise Corp 931,Industrials,Latin America,Chile,BBB,3705000.0,3591000.0,3.72,0.501,6.98,0.102,1.77,2019,True
+BORR-000932,Enterprise Corp 932,Real Estate,Europe,United Kingdom,A,170951000.0,264217000.0,1.44,0.338,7.07,0.116,1.79,2006,True
+BORR-000933,Enterprise Corp 933,Energy,North America,Canada,BBB,14227000.0,19306000.0,2.35,0.475,4.42,0.114,1.87,1996,True
+BORR-000934,Enterprise Corp 934,Real Estate,North America,Canada,B,78358000.0,76400000.0,4.31,0.576,3.26,0.032,1.27,1972,True
+BORR-000935,Enterprise Corp 935,Consumer Discretionary,North America,United States,BBB,42813000.0,64994000.0,3.73,0.45,7.99,0.104,1.64,2009,True
+BORR-000936,Enterprise Corp 936,Utilities,Middle East,Qatar,BBB,7841000.0,11869000.0,3.06,0.599,6.95,0.057,2.14,1971,True
+BORR-000937,Enterprise Corp 937,Healthcare,North America,Canada,A,7917000.0,10414000.0,2.58,0.396,10.22,0.158,2.14,1971,True
+BORR-000938,Enterprise Corp 938,Healthcare,Europe,France,AA,83102000.0,85218000.0,1.71,0.239,9.41,0.147,2.76,2013,True
+BORR-000939,Enterprise Corp 939,Consumer Discretionary,Latin America,Chile,A,84733000.0,78996000.0,1.79,0.401,10.74,0.16,2.1,1966,True
+BORR-000940,Enterprise Corp 940,Industrials,Middle East,Saudi Arabia,AAA,1541000.0,2708000.0,0.85,0.149,10.81,0.169,2.71,1968,True
+BORR-000941,Enterprise Corp 941,Real Estate,North America,Canada,CCC,28339000.0,41256000.0,4.09,0.638,2.23,0.021,0.87,1991,True
+BORR-000942,Enterprise Corp 942,Consumer Discretionary,North America,United States,A,12667000.0,20384000.0,1.66,0.328,6.26,0.089,2.16,1995,True
+BORR-000943,Enterprise Corp 943,Utilities,North America,Canada,BB,4240000.0,6347000.0,3.7,0.523,6.33,0.098,1.81,1962,True
+BORR-000944,Enterprise Corp 944,Consumer Discretionary,North America,Canada,A,20057000.0,32682000.0,1.74,0.446,7.2,0.099,2.04,1983,True
+BORR-000945,Enterprise Corp 945,Healthcare,North America,United States,A,2901000.0,2792000.0,2.46,0.425,7.02,0.11,2.32,1973,True
+BORR-000946,Enterprise Corp 946,Healthcare,Europe,Netherlands,BBB,8371000.0,10857000.0,2.25,0.501,7.94,0.1,1.64,1978,True
+BORR-000947,Enterprise Corp 947,Utilities,Latin America,Brazil,A,5620000.0,8245000.0,2.45,0.324,9.19,0.129,2.39,1971,True
+BORR-000948,Enterprise Corp 948,Healthcare,Europe,Germany,BB,8042000.0,7265000.0,3.26,0.518,6.36,0.024,1.43,2001,True
+BORR-000949,Enterprise Corp 949,Utilities,Europe,Switzerland,B,13446000.0,12773000.0,4.8,0.646,3.17,0.043,1.58,1988,True
+BORR-000950,Enterprise Corp 950,Energy,North America,United States,BB,4331000.0,6211000.0,3.66,0.512,4.94,0.099,1.62,2018,True
+BORR-000951,Enterprise Corp 951,Technology,Asia-Pacific,Singapore,A,96767000.0,161476000.0,2.92,0.373,7.73,0.114,2.62,1960,True
+BORR-000952,Enterprise Corp 952,Financials,Europe,Germany,BB,26481000.0,38673000.0,3.12,0.576,5.94,0.068,1.25,2007,True
+BORR-000953,Enterprise Corp 953,Real Estate,Asia-Pacific,Australia,A,126212000.0,105539000.0,2.33,0.369,9.66,0.13,1.72,2015,True
+BORR-000954,Enterprise Corp 954,Consumer Discretionary,Latin America,Mexico,B,12090000.0,21405000.0,3.61,0.644,4.04,0.046,1.14,1989,True
+BORR-000955,Enterprise Corp 955,Telecommunications,North America,Canada,BBB,7583000.0,7124000.0,2.69,0.566,8.77,0.069,1.46,2002,True
+BORR-000956,Enterprise Corp 956,Real Estate,North America,Canada,BBB,120855000.0,124790000.0,2.77,0.46,7.48,0.099,1.47,1986,True
+BORR-000957,Enterprise Corp 957,Consumer Discretionary,North America,Canada,A,7322000.0,12996000.0,1.94,0.461,7.52,0.155,2.35,1996,True
+BORR-000958,Enterprise Corp 958,Real Estate,Europe,Netherlands,AAA,11829000.0,18584000.0,0.49,0.264,11.59,0.143,2.72,2015,True
+BORR-000959,Enterprise Corp 959,Utilities,Latin America,Brazil,A,34763000.0,60369000.0,1.59,0.302,9.85,0.114,2.02,1992,True
+BORR-000960,Enterprise Corp 960,Consumer Discretionary,North America,United States,B,3318000.0,5331000.0,2.93,0.564,6.0,0.009,1.2,1995,True
+BORR-000961,Enterprise Corp 961,Healthcare,Asia-Pacific,South Korea,BB,34400000.0,49940000.0,2.97,0.5,6.42,0.103,1.42,2020,True
+BORR-000962,Enterprise Corp 962,Consumer Discretionary,Europe,Switzerland,B,29503000.0,31998000.0,4.41,0.579,3.63,0.047,1.82,1990,True
+BORR-000963,Enterprise Corp 963,Materials,North America,Canada,AA,67200000.0,75726000.0,0.9,0.305,8.94,0.124,2.22,1970,True
+BORR-000964,Enterprise Corp 964,Energy,North America,United States,BBB,42629000.0,74484000.0,2.22,0.507,7.09,0.103,1.48,2001,True
+BORR-000965,Enterprise Corp 965,Utilities,Europe,United Kingdom,A,69718000.0,115775000.0,3.2,0.465,9.81,0.089,2.4,2002,True
+BORR-000966,Enterprise Corp 966,Industrials,Europe,Switzerland,BBB,12833000.0,14880000.0,2.58,0.488,6.92,0.069,1.82,1974,True
+BORR-000967,Enterprise Corp 967,Real Estate,Europe,Netherlands,A,5203000.0,6105000.0,2.46,0.363,8.35,0.081,2.77,2004,True
+BORR-000968,Enterprise Corp 968,Financials,North America,United States,A,184283000.0,202286000.0,2.62,0.265,7.86,0.093,2.0,1963,True
+BORR-000969,Enterprise Corp 969,Utilities,Asia-Pacific,Australia,BBB,2345000.0,2641000.0,3.23,0.474,6.01,0.141,2.13,1979,True
+BORR-000970,Enterprise Corp 970,Technology,North America,Canada,A,2645000.0,4392000.0,1.54,0.392,7.61,0.103,2.48,2012,True
+BORR-000971,Enterprise Corp 971,Energy,Latin America,Mexico,BBB,28865000.0,23395000.0,2.78,0.481,6.56,0.114,1.72,1997,True
+BORR-000972,Enterprise Corp 972,Consumer Discretionary,North America,Canada,BBB,102974000.0,127281000.0,2.09,0.596,8.46,0.075,1.66,1997,True
+BORR-000973,Enterprise Corp 973,Consumer Discretionary,North America,United States,A,18393000.0,32056000.0,3.52,0.464,7.51,0.148,2.38,1997,True
+BORR-000974,Enterprise Corp 974,Consumer Discretionary,Europe,Germany,B,48601000.0,65253000.0,3.3,0.677,3.66,0.019,1.49,1970,True
+BORR-000975,Enterprise Corp 975,Healthcare,Europe,United Kingdom,BBB,1336000.0,1671000.0,2.38,0.412,5.36,0.101,1.46,2018,True
+BORR-000976,Enterprise Corp 976,Energy,Europe,Netherlands,BB,8045000.0,8949000.0,2.98,0.519,5.86,0.077,1.26,1978,True
+BORR-000977,Enterprise Corp 977,Technology,Europe,Netherlands,BBB,1546000.0,1351000.0,2.15,0.464,8.04,0.17,1.12,2007,True
+BORR-000978,Enterprise Corp 978,Industrials,Middle East,Qatar,BB,37374000.0,38289000.0,4.18,0.503,6.95,0.094,1.78,2020,True
+BORR-000979,Enterprise Corp 979,Financials,Europe,France,BB,2288000.0,2037000.0,4.71,0.58,5.24,0.057,1.52,1974,True
+BORR-000980,Enterprise Corp 980,Industrials,Europe,United Kingdom,BB,3162000.0,2930000.0,3.26,0.571,5.69,0.096,1.55,1998,True
+BORR-000981,Enterprise Corp 981,Industrials,Europe,France,BBB,27148000.0,26158000.0,2.24,0.405,6.22,0.164,1.37,1962,True
+BORR-000982,Enterprise Corp 982,Telecommunications,North America,United States,A,52388000.0,57733000.0,1.18,0.462,8.43,0.076,1.83,1998,True
+BORR-000983,Enterprise Corp 983,Industrials,Europe,Netherlands,AA,12106000.0,9818000.0,1.58,0.316,9.58,0.125,2.3,1986,True
+BORR-000984,Enterprise Corp 984,Real Estate,North America,Canada,BBB,29041000.0,50826000.0,2.74,0.366,6.47,0.093,1.68,1964,True
+BORR-000985,Enterprise Corp 985,Industrials,Europe,Switzerland,AA,27934000.0,25806000.0,1.37,0.307,9.37,0.137,2.48,2000,True
+BORR-000986,Enterprise Corp 986,Real Estate,North America,United States,A,11313000.0,13385000.0,2.41,0.407,8.34,0.115,2.34,2019,True
+BORR-000987,Enterprise Corp 987,Real Estate,Middle East,UAE,AA,3939000.0,6616000.0,1.9,0.368,8.85,0.111,3.12,1965,True
+BORR-000988,Enterprise Corp 988,Financials,Europe,United Kingdom,BBB,28857000.0,26161000.0,3.06,0.45,6.11,0.142,1.87,2014,True
+BORR-000989,Enterprise Corp 989,Energy,Latin America,Mexico,A,30576000.0,39247000.0,2.14,0.44,9.85,0.082,2.49,2011,True
+BORR-000990,Enterprise Corp 990,Telecommunications,Europe,France,BBB,42833000.0,70451000.0,2.35,0.481,9.65,0.094,1.63,1993,True
+BORR-000991,Enterprise Corp 991,Financials,North America,Canada,BB,21306000.0,28911000.0,3.83,0.471,3.55,0.106,1.1,2014,True
+BORR-000992,Enterprise Corp 992,Industrials,Asia-Pacific,South Korea,BB,3605000.0,3642000.0,3.51,0.465,3.49,0.074,1.49,1978,True
+BORR-000993,Enterprise Corp 993,Healthcare,Europe,United Kingdom,A,33545000.0,51509000.0,2.74,0.457,6.65,0.096,1.68,2003,True
+BORR-000994,Enterprise Corp 994,Consumer Discretionary,Asia-Pacific,Singapore,BBB,14626000.0,21666000.0,3.3,0.542,6.28,0.06,1.88,2002,True
+BORR-000995,Enterprise Corp 995,Industrials,Europe,France,BBB,8209000.0,9540000.0,2.19,0.489,7.47,0.093,1.65,1995,True
+BORR-000996,Enterprise Corp 996,Real Estate,Europe,Germany,BBB,10287000.0,8706000.0,2.18,0.56,7.11,0.077,1.29,2010,True
+BORR-000997,Enterprise Corp 997,Industrials,Asia-Pacific,Japan,BBB,6399000.0,5170000.0,2.52,0.533,6.61,0.106,2.4,2013,True
+BORR-000998,Enterprise Corp 998,Financials,Europe,Switzerland,A,42568000.0,69190000.0,1.77,0.431,8.43,0.083,2.0,2007,True
+BORR-000999,Enterprise Corp 999,Utilities,North America,Canada,CCC,2672000.0,2997000.0,5.08,0.655,1.37,0.049,0.55,1995,True
+BORR-001000,Enterprise Corp 1000,Industrials,Europe,France,AA,4447000.0,4170000.0,1.88,0.414,8.91,0.153,2.71,2019,True

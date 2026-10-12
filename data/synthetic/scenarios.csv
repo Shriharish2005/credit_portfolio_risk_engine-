@@ -1,0 +1,4 @@
+scenario_id,scenario_name,description,gdp_growth,interest_rate,unemployment_rate,collateral_haircut_shock,is_standard
+SCEN-BASE,Base,Baseline macroeconomic environment representing steady economic growth,6.0,6.5,5.0,0.0,True
+SCEN-MODERATE,Moderate,Moderate stagflationary slowdown with rising interest rates and softening asset prices,3.0,8.0,8.0,0.1,True
+SCEN-SEVERE,Severe,"Severe global recession crisis with liquidity freeze, property devaluation, and high defaults",-2.0,10.0,14.0,0.25,True
