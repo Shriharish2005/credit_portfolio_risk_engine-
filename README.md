@@ -1,5 +1,12 @@
 # Credit Portfolio Risk Engine
 
+[![CI Pipeline](https://github.com/Shriharish2005/credit_portfolio_risk_engine-/actions/workflows/ci.yml/badge.svg)](https://github.com/Shriharish2005/credit_portfolio_risk_engine-/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 An institutional **quantitative credit-risk platform** and capital adequacy simulation engine. Designed for quantitative risk analysts, credit portfolio managers, and model validation engineers.
 
 > **NOT AN AI PROJECT**: This platform is powered entirely by quantitative finance models, actuarial methods, and statistical algorithms (NumPy, SciPy, Pandas, Statsmodels, Scikit-learn, and one-factor Gaussian copula Monte Carlo simulations). No LLMs or AI chatbots are used.
